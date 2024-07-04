@@ -1,4 +1,4 @@
-# DMIS-Lab-Seminar
+# DMAIS-Lab-Seminar
 
 The main purpose of this seminar is to educate and inform its members of the recent advances of data mining and artificial intelligence.
 
