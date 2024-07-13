@@ -16,8 +16,8 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
-| July 09, 2024 - 1|   Saejoon Park & Gyuwon Lee |      Accurate evaluation for time-series anomaly detection       |    TBD    |
-| July 09, 2024 - 2|   Sooho Moon    |      Graph Attention Networks      |    TBD    |
+| July 09, 2024 - 1|   Saejoon Park & Gyuwon Lee |      Accurate evaluation for time-series anomaly detection       |    [PDF](./22_eTaPR.pdf) [PDF](./20240709_CIKM.pdf)    |
+| July 09, 2024 - 2|   Sooho Moon    |      Graph Attention Networks      |    [PDF](./Graph_Attention_Networks.pdf)    |
 | July 16, 2024 - 1|   HoonUi Lee    |      Learning Entity and Relation Embeddings for Knowledge Graph Completion      |    TBD    |
 | July 16, 2024 - 2|   Sooho Moon    |      Convolutional 2D Knowledge Graph Embeddings      |    TBD    |
 | July 23, 2024 - 1|          |                |             |
