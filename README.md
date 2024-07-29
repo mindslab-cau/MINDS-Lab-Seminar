@@ -18,26 +18,13 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | :----------: | :-----------: | :-------------------: | :-------: |
 | July 09, 2024 - 1|   Saejoon Park & Gyuwon Lee |      Accurate evaluation for time-series anomaly detection       |    [PDF](./presentations/22_eTaPR.pdf) [PDF](./presentations/20240709_CIKM.pdf)    |
 | July 09, 2024 - 2|   Sooho Moon    |      Graph Attention Networks      |    [PDF](./presentations/Graph_Attention_Networks.pdf)    |
-<<<<<<< HEAD
-<<<<<<< Updated upstream
 | July 16, 2024 - 1|   Hoonui Lee    |      Learning Entity and Relation Embeddings for Knowledge Graph Completion      |    [PDF](./presentations/TransR_lhn.pdf)    |
-| July 16, 2024 - 2|   Sooho Moon    |      Convolutional 2D Knowledge Graph Embeddings      |    [PDF](./presentations/ConvE_문수호.pdf)     |
-| July 23, 2024 - 1|   Minho Kim   |      node2vec_Scalable Feature Learning for Networks      |             |
-| July 23, 2024 - 2|   Htet Arkar   |      Inductive Representation Learning on Large Graphs      |   [PDF](./presentations/GraphSAGE-HAK.pdf)           |
-=======
-| July 16, 2024 - 1|   HoonUi Lee    |      Learning Entity and Relation Embeddings for Knowledge Graph Completion      |    [PDF](./presentations/TransR_lhn.pdf)    |
 | July 16, 2024 - 2|   Sooho Moon    |      Convolutional 2D Knowledge Graph Embeddings      |    [PDF](./presentations/ConvE_문수호.pdf)    |
-| July 23, 2024 - 1|   Minho Kim    |      node2vec_Scalable Feature Learning for Networks      |    [PDF](./presentations/node2vec_KMH.pdf)         |
-| July 23, 2024 - 2|   Htet Arkar    |       Inductive Representation Learning on Large Graphs         |     [PDF](./presentations/GraphSAGE-HAK.pdf)        |
->>>>>>> Stashed changes
-=======
-| July 16, 2024 - 1|   HoonUi Lee    |      Learning Entity and Relation Embeddings for Knowledge Graph Completion      |    [PDF](./presentations/TransR_lhn.pdf)    |
 | July 16, 2024 - 2|   Sooho Moon    |      Convolutional 2D Knowledge Graph Embeddings      |    [PDF](./presentations/ConvE_문수호.pdf)    |
 | July 23, 2024 - 1|   Minho Kim    |      node2vec_Scalable Feature Learning for Networks      |   [PDF](./presentations/node2vec_KMH.pdf)          |
 | July 23, 2024 - 2|   Htet Arkar    |       Inductive Representation Learning on Large Graphs         |     [PDF](./presentations/GraphSAGE-HAK.pdf)        |
->>>>>>> 92b29ac38f88108993ed1a5fda5d09424e9425c9
-| July 30, 2024 - 1|          |                |             |
-| July 30, 2024 - 2|          |                |             |
+| July 30, 2024 - 1|   Hoonui Lee        |      TransE & DistMult          |    [PDF](./presentations/TransE_DistMult_lhn.pdf)         |
+| July 30, 2024 - 2|   Sooho Moon        |      ComplEx & RotatE          |    [PDF](./presentations/ComplEx_MSH.pdf) [PDF](./presentations/RotatE_MSH.pdf)         |
 | August 6, 2024 - 1|          |                |             |
 | August 6, 2024 - 2|          |                |             |
 | August 13, 2024 - 1|          |                |             |
