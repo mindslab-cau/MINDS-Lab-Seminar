@@ -22,9 +22,9 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | July 16, 2024 - 2|   Sooho Moon    |      Convolutional 2D Knowledge Graph Embeddings      |    [PDF](./presentations/ConvE_문수호.pdf)    |
 | July 23, 2024 - 1|   Minho Kim    |      node2vec_Scalable Feature Learning for Networks      |   [PDF](./presentations/node2vec_KMH.pdf)          |
 | July 23, 2024 - 2|   Htet Arkar    |       Inductive Representation Learning on Large Graphs         |     [PDF](./presentations/GraphSAGE-HAK.pdf)        |
-| July 30, 2024 - 1|   Hoonui Lee        |      TransE & DistMult          |    [PDF](./presentations/TransE_DistMult_lhn.pdf)         |
-| July 30, 2024 - 2|   Sooho Moon        |      ComplEx & RotatE          |    [PDF](./presentations/ComplEx_MSH.pdf) [PDF](./presentations/RotatE_MSH.pdf)         |
-| August 6, 2024 - 1|          |                |             |
+| July 30, 2024 - 1|   Hoonui Lee    |      TransE & DistMult       |    [PDF](./presentations/TransE_DistMult_lhn.pdf)       |
+| July 30, 2024 - 2|   Sooho Moon    |      ComplEx & RotatE       |    [PDF](./presentations/ComplEx_MSH.pdf) [PDF](./presentations/RotatE_MSH.pdf)       |
+| August 6, 2024 - 1|   Htet Arkar    |      Neural Graph Collaborative Filtering and Simplifying and Powering Graph Convolution Network for Recommendation       |    [PDF](./presentations/NGCF_LightGCN_HAK.pdf)       |
 | August 6, 2024 - 2|          |                |             |
 | August 13, 2024 - 1|          |                |             |
 | August 13, 2024 - 2|          |                |             |
