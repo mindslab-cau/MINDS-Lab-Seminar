@@ -26,8 +26,8 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | July 30, 2024 - 2|   Sooho Moon    |      ComplEx & RotatE       |    [PDF](./presentations/ComplEx_MSH.pdf) [PDF](./presentations/RotatE_MSH.pdf)       |
 | August 6, 2024 - 1|   Htet Arkar    |      Neural Graph Collaborative Filtering and Simplifying and Powering Graph Convolution Network for Recommendation       |    [PDF](./presentations/NGCF_LightGCN_HAK.pdf)       |
 | August 6, 2024 - 2|          |                |             |
-| August 13, 2024 - 1|   Saejoon Park   |    Multivariate Time-series Anomaly Detection via Graph Attention Network            |   [PDF](./presentations/MTAD-GAT_PSJ.pdf)          |
-| August 13, 2024 - 2|   Gyuwon Lee   |    Attention Is All You Need    |    [PDF](./presentations/AttentionIsAllYouNeed_gyuwon.pdf)         |
+| August 13, 2024 - 1|   Gyuwon Lee   |    Attention Is All You Need    |    [PDF](./presentations/AttentionIsAllYouNeed_gyuwon.pdf)         |   
+| August 13, 2024 - 2|    Saejoon Park   |    Multivariate Time-series Anomaly Detection via Graph Attention Network            |   [PDF](./presentations/MTAD-GAT_PSJ.pdf)          |
 | August 20, 2024 - 1|          |                |             |
 | August 20, 2024 - 2|          |                |             |
 | August 27, 2024 - 1|          |                |             |
