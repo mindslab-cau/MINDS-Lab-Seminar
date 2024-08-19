@@ -28,7 +28,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | August 6, 2024 - 2|          |                |             |
 | August 13, 2024 - 1|   Gyuwon Lee   |    Attention Is All You Need    |    [PDF](./presentations/AttentionIsAllYouNeed_gyuwon.pdf)         |   
 | August 13, 2024 - 2|    Saejoon Park   |    Multivariate Time-series Anomaly Detection via Graph Attention Network            |   [PDF](./presentations/MTAD-GAT_PSJ.pdf)          |
-| August 20, 2024 - 1|          |                |             |
-| August 20, 2024 - 2|          |                |             |
+| August 20, 2024 - 1|    Hoonui Lee      |   Differentiable Learning of Logical Rules for Knowledge Base Reasoning             |   [PDF](./presentations/NeuralLP_lhn.pdf)            |
+| August 20, 2024 - 2|   Sooho Moon       |   DRUM- End-To-End Differentiable Rule Mining On Knowledge Graphs             |   [PDF](./presentations/DRUM_MSH.pdf)          |
 | August 27, 2024 - 1|          |                |             |
 | August 27, 2024 - 2|          |                |             |
