@@ -4,13 +4,44 @@ The main purpose of this seminar is to educate and inform its members of the rec
 
 ### Regular meeting.
 
-**Time**: 10:00am - 12:00am, every Tuesday.
+**Time**: 16:00pm - 18:00pm, every Friday.
 
 **Room**: Room #514-1, Building #208
 
 If you would like to present in an upcoming meeting, please submit a pull request for registering or email *Hoonui LEE (이훈의)[gnsdml1@cau.ac.kr]*.
 
 Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation slides to this github repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to represent a week ahead of your presentation.
+
+### Schedule for Fall 2024
+
+|    Dates     |  Presenters   |        Topics         | Materials |
+| :----------: | :-----------: | :-------------------: | :-------: |
+| September 13, 2024 - 1|          |                |             |
+| September 13, 2024 - 2|          |                |             |
+| September 20, 2024 - 1|          |                |             |
+| September 20, 2024 - 2|          |                |             |
+| September 27, 2024 - 1|          |                |             |
+| September 27, 2024 - 2|          |                |             |
+| October 4, 2024 - 1|          |                |             |
+| October 4, 2024 - 2|          |                |             |
+| October 11, 2024 - 1|          |                |             |
+| October 11, 2024 - 2|          |                |             |
+| November 1, 2024 - 1|          |                |             |
+| November 1, 2024 - 2|          |                |             |
+| November 8, 2024 - 1|          |                |             |
+| November 8, 2024 - 2|          |                |             |
+| November 15, 2024 - 1|          |                |             |
+| November 15, 2024 - 2|          |                |             |
+| November 22, 2024 - 1|          |                |             |
+| November 22, 2024 - 2|          |                |             |
+| November 29, 2024 - 1|          |                |             |
+| November 29, 2024 - 2|          |                |             |
+| December 6, 2024 - 1|          |                |             |
+| December 6, 2024 - 2|          |                |             |
+
+
+---
+
 
 ### Schedule for Summer 2024
 
@@ -30,5 +61,3 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | August 13, 2024 - 2|    Saejoon Park   |    Multivariate Time-series Anomaly Detection via Graph Attention Network            |   [PDF](./presentations/MTAD-GAT_PSJ.pdf)          |
 | August 20, 2024 - 1|    Hoonui Lee      |   Differentiable Learning of Logical Rules for Knowledge Base Reasoning             |   [PDF](./presentations/NeuralLP_lhn.pdf)            |
 | August 20, 2024 - 2|   Sooho Moon       |   DRUM- End-To-End Differentiable Rule Mining On Knowledge Graphs             |   [PDF](./presentations/DRUM_MSH.pdf)          |
-| August 27, 2024 - 1|          |                |             |
-| August 27, 2024 - 2|          |                |             |
