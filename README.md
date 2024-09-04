@@ -16,9 +16,9 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
-| September 13, 2024 - 1|          |                |             |
-| September 13, 2024 - 2|          |                |             |
-| September 20, 2024 - 1|          |                |             |
+| September 13, 2024 - 1|   Hoonui Lee   |                |             |
+| September 13, 2024 - 2|   Sooho Moon   |                |             |
+| September 20, 2024 - 1|   Junseo Yu   |                |             |
 | September 20, 2024 - 2|          |                |             |
 | September 27, 2024 - 1|          |                |             |
 | September 27, 2024 - 2|          |                |             |
