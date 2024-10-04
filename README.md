@@ -22,8 +22,8 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | September 20, 2024 - 2|   Junseo Yu   |    InFoRM: Individual Fairness on Graph Mining    |   [PDF](./presentations/Labmeeting_yjs_2_pdf.pdf)
 | September 27, 2024 - 1|   Htet Arkar   |    GNN for Social Recommender Systems    |    [PDF](./presentations/SocialRS_HAK.pdf)         |
 | September 27, 2024 - 2|    -    |    -    |    -    |
-| October 4, 2024 - 1|   Junseo Yu   |    Disentangled Graph Convolutional Networks    |             |
-| October 4, 2024 - 2|   Htet Arkar   |    A Graph Neural Network Framework for Social Recommendation    |             |
+| October 4, 2024 - 1|   Junseo Yu   |    Disentangled Graph Convolutional Networks    |    [PDF](./presentations/Labmeeting_yjs_241004.pdf)         |
+| October 4, 2024 - 2|   Htet Arkar   |    A Graph Neural Network Framework for Social Recommendation    |    [PDF](./presentations/SocialRS(2)_HAK.pdf)         |
 | October 11, 2024 - 1|          |                |             |
 | October 11, 2024 - 2|          |                |             |
 | November 1, 2024 - 1|          |                |             |
