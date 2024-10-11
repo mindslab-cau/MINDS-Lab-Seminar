@@ -25,7 +25,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | October 4, 2024 - 1|   Junseo Yu   |    Disentangled Graph Convolutional Networks    |    [PDF](./presentations/Labmeeting_yjs_241004.pdf)         |
 | October 4, 2024 - 2|   Htet Arkar   |    A Graph Neural Network Framework for Social Recommendation    |    [PDF](./presentations/SocialRS(2)_HAK.pdf)         |
 | October 11, 2024 - 1|   Sooho Moon   |    Link Prediction Based on Graph Neural Networks (SEAL)            |    [PDF](./presentations/SEAL(2018).pdf)          |
-| October 11, 2024 - 2|   Hoonui Lee   |    Inductive Relation Prediction by Subgraph Reasoning (GraIL)            |    [PDF](./presentations/GralL_lhn.pdf)         |
+| October 11, 2024 - 2|   Hoonui Lee   |    Inductive Relation Prediction by Subgraph Reasoning (GraIL)            |    [PDF](./presentations/GraIL_lhn.pdf)         |
 | November 1, 2024 - 1|          |                |             |
 | November 1, 2024 - 2|          |                |             |
 | November 8, 2024 - 1|          |                |             |
