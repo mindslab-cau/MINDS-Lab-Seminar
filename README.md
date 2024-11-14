@@ -30,8 +30,8 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | November 1, 2024 - 2|   Sooho Moon   |    DeepPath & PathCon    |   [PDF](./presentations/DeepPath_Pathcon_MSH_1.pdf)          |
 | November 8, 2024 - 1|          |    Low Mileage, High Fidelity: Evaluating Hypergraph Expansion Methods by Quantifying the Information Loss    |             |
 | November 8, 2024 - 2|          |    Learning from evolving, (un)structured data with foundation models    |             |
-| November 15, 2024 - 1|          |                |             |
-| November 15, 2024 - 2|          |                |             |
+| November 14, 2024 - 1|   Sooho Moon   |    Summary of KGC    |   [PDF](./presentations/Summary_of_KGC.pdf)          |
+| November 14, 2024 - 2|   Sooho Moon   |    Observing impact of long-tail relations on knowledge graph completion    |   [PDF](./presentations/Obseving_impact_of_long-tail_relations_on_knowledge_graph_completion.pdf)          |
 | November 22, 2024 - 1|          |                |             |
 | November 22, 2024 - 2|          |                |             |
 | November 29, 2024 - 1|          |                |             |
