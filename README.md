@@ -32,10 +32,10 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | November 8, 2024 - 2|          |    Learning from evolving, (un)structured data with foundation models    |             |
 | November 14, 2024 - 1|   Sooho Moon   |    Summary of KGC    |   [PDF](./presentations/Summary_of_KGC.pdf)          |
 | November 14, 2024 - 2|   Sooho Moon   |    Observing impact of long-tail relations on knowledge graph completion    |   [PDF](./presentations/Obseving_impact_of_long-tail_relations_on_knowledge_graph_completion.pdf)          |
-| November 29, 2024 - 1|   Hoonui Lee       |    Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings             |    [PDF](./presentations/EmbedKGQA&BiNet.pdf)          |
-| November 29, 2024 - 2|   Hoonui Lee       |    Joint Knowledge Graph Completion and Question Answering            |             |
-| December 6, 2024 - 1|          |                |             |
-| December 6, 2024 - 2|          |                |             |
+| November 29, 2024 - 1|   Hoonui Lee   |    Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings    |    [PDF](./presentations/EmbedKGQA&BiNet.pdf)          |
+| November 29, 2024 - 2|   Hoonui Lee   |    Joint Knowledge Graph Completion and Question Answering    |             |
+| December 6, 2024 - 1|   Junseo Yu   |    Fair & Disentangle Graph Mining  Papers Organization    |             |
+| December 6, 2024 - 2|   Gyuwon Lee   |    Deep Learning for Time Series Anomaly Detection: A Survey    |             |
 
 
 ---
