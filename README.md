@@ -35,7 +35,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | November 29, 2024 - 1|   Hoonui Lee   |    Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings    |    [PDF](./presentations/EmbedKGQA&BiNet.pdf)          |
 | November 29, 2024 - 2|   Hoonui Lee   |    Joint Knowledge Graph Completion and Question Answering    |             |
 | December 6, 2024 - 1|   Junseo Yu   |    Fair & Disentangle Graph Mining  Papers Organization    |             |
-| December 6, 2024 - 2|   Gyuwon Lee   |    Deep Learning for Time Series Anomaly Detection: A Survey    |             |
+| December 6, 2024 - 2|   Gyuwon Lee   |    Deep Learning for Time Series Anomaly Detection: A Survey    |    [PDF](./presentations/ACM_Computing_TSAD_v2.pdf)         |
 
 
 ---
