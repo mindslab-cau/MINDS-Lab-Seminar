@@ -12,6 +12,40 @@ If you would like to present in an upcoming meeting, please submit a pull reques
 
 Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation slides to this github repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to represent a week ahead of your presentation.
 
+
+### Schedule for Winter 2025
+
+|    Dates     |  Presenters   |        Topics         | Materials |
+| :----------: | :-----------: | :-------------------: | :-------: |
+| January 16, 2024 - 1|   Htet Arkar   |   Large Language Models for Graph   |   [PDF](./presentations/LLMsForGraphs-HAK.pdf)     |
+| January 16, 2024 - 2|   Htet Arkar   |   Graph Reasoning Enhanced Language Models for Question Answering (GreaseLM)   |   [PDF](./presentations/GreaseLM-HAK.pdf)    |
+| January 21, 2024 - 1|      |       |        |
+| January 21, 2024 - 2|      |       |       |
+| January 23, 2024 - 1|      |       |        |
+| January 23, 2024 - 2|      |       |       |
+| January 28, 2024 - 1|      |       |        |
+| January 28, 2024 - 2|      |       |       |
+| January 30, 2024 - 1|      |       |        |
+| January 30, 2024 - 2|      |       |       |
+| February 4, 2024 - 1|      |       |        |
+| February 4, 2024 - 2|      |       |       |
+| February 6, 2024 - 1|      |       |        |
+| February 6, 2024 - 2|      |       |       |
+| February 11, 2024 - 1|      |       |        |
+| February 11, 2024 - 2|      |       |       |
+| February 13, 2024 - 1|      |       |        |
+| February 13, 2024 - 2|      |       |       |
+| February 18, 2024 - 1|      |       |        |
+| February 18, 2024 - 2|      |       |       |
+| February 20, 2024 - 1|      |       |        |
+| February 20, 2024 - 2|      |       |       |
+| February 25, 2024 - 1|      |       |        |
+| February 25, 2024 - 2|      |       |       |
+| February 27, 2024 - 1|      |       |        |
+| February 27, 2024 - 2|      |       |       |
+
+---
+
 ### Schedule for Fall 2024
 
 |    Dates     |  Presenters   |        Topics         | Materials |
