@@ -17,10 +17,8 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
-| January 14, 2024 - 1|   Htet Arkar   |   Large Language Models for Graph   |        |
-| January 14, 2024 - 2|   Htet Arkar   |   Graph Reasoning Enhanced Language Models for Question Answering (GreaseLM)   |       |
-| January 16, 2024 - 1|      |       |        |
-| January 16, 2024 - 2|      |       |       |
+| January 16, 2024 - 1|   Htet Arkar   |   Large Language Models for Graph   |   [PDF](./presentations/LLMsForGraphs-HAK.pdf)     |
+| January 16, 2024 - 2|   Htet Arkar   |   Graph Reasoning Enhanced Language Models for Question Answering (GreaseLM)   |   [PDF](./presentations/GreaseLM-HAK.pdf)    |
 | January 21, 2024 - 1|      |       |        |
 | January 21, 2024 - 2|      |       |       |
 | January 23, 2024 - 1|      |       |        |
