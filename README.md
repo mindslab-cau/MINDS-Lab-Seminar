@@ -21,7 +21,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | January 16, 2024 - 2|   -   |   -    |    -    |
 | January 21, 2024 - 1|   Htet Arkar   |   Graph Reasoning Enhanced Language Models for Question Answering (GreaseLM)   |   [PDF](./presentations/GreaseLM-HAK-updated.pdf)    |
 | January 21, 2024 - 2|   -   |   -    |   -    |
-| January 23, 2024 - 1|  Junseo Yu    |  GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning     |  [PDF](./presentations/GNNRAG_LabMeeting_유준서_250123.pdf)      |
+| January 23, 2024 - 1|  Junseo Yu    |  GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning     |  [PDF](./presentations/GNNRAG_LabMeeting_YJS_250123.pdf)      |
 | January 23, 2024 - 2|  Hoonui Lee    |  SimKGC: Simple Contrastive Knowledge Graph Completion with Pre-trained Language Models     |   -     |
 | January 28, 2024 - 1|      |       |        |
 | January 28, 2024 - 2|      |       |       |
