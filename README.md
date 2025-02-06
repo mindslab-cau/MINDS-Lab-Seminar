@@ -23,8 +23,8 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | January 21, 2024 - 2|   -   |   -    |   -    |
 | January 23, 2024 - 1|  Junseo Yu    |  GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning     |  [PDF](./presentations/GNNRAG_LabMeeting_YJS_250123.pdf)      |
 | January 23, 2024 - 2|  Hoonui Lee    |  SimKGC: Simple Contrastive Knowledge Graph Completion with Pre-trained Language Models     |   [PDF](./presentations/SimKGC_lhn.pdf)     |
-| January 28, 2024 - 1|      |       |        |
-| January 28, 2024 - 2|      |       |       |
+| January 28, 2024 - 1|  Saejoon Park    |   Generative Adversarial Nets     |  [PDF](./presentations/GAN_PSJ.pdf)     |
+| January 28, 2024 - 2|  InHyeok Jeong    |   Batch/Layer Normalization     |       |
 | January 30, 2024 - 1|      |       |        |
 | January 30, 2024 - 2|      |       |       |
 | February 4, 2024 - 1|      |       |        |
