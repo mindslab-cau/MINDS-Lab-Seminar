@@ -26,8 +26,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | February 6, 2024 - 1|  InHyeok Jeong    |   Batch/Layer Normalization     |  [PDF](./presentations/Batch&Layer_Normalization_JIH.pdf)     |
 | February 6, 2024 - 2|  Saejoon Park    |   Generative Adversarial Nets     |  [PDF](./presentations/GAN_PSJ_0206.pdf)     |
 | February 11, 2024 - 1|  Hoonui Lee    |  KG-BERT: BERT for Knowledge Graph Completion     |   [PDF](./presentations/KG-BERT_lhn.pdf)     |
-| February 11, 2024 - 2|  Hoonui Lee    |  Do Pre-trained Models Benefit Knowledge Graph Completion?
-A Reliable Evaluation and a Reasonable Approach     |  [PDF](./presentations/PKGC_lhn.pdf)      |
+| February 11, 2024 - 2|  Hoonui Lee    |  Do Pre-trained Models Benefit Knowledge Graph Completion? A Reliable Evaluation and a Reasonable Approach     |  [PDF](./presentations/PKGC_lhn.pdf)      |
 | February 13, 2024 - 1|  Sooho Moon    |       |        |
 | February 13, 2024 - 2|  Sooho Moon    |       |       |
 | February 18, 2024 - 1|  Gyuwon Lee    |       |        |
