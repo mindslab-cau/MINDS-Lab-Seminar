@@ -29,7 +29,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | February 11, 2024 - 2|  Hoonui Lee    |  Do Pre-trained Models Benefit Knowledge Graph Completion? A Reliable Evaluation and a Reasonable Approach     |  [PDF](./presentations/PKGC_lhn.pdf)      |
 | February 13, 2024 - 1|  Sooho Moon    |  Searching for Better Knowledge Graph Completion Evaluation Metrics : Recent Discoveries  |        |
 | February 13, 2024 - 2|  Sooho Moon    |  -  |       |
-| February 18, 2024 - 1|  Gyuwon Lee    |       |        |
+| February 18, 2024 - 1|  Gyuwon Lee    |  Multivariate Time Series Anomaly Detection and Interpretation using Hierarchical Inter-Metric and Temporal Embedding     |        |
 | February 18, 2024 - 2|  Saejoon Park   |  MADGAN & DCTGAN  |       |
 | February 20, 2024 - 1|  Junseo Yu  |       |        |
 | February 20, 2024 - 2|  Hoonui Lee  |  Knowledge Hypergraphs: Prediction Beyond Binary Relations  |       |
