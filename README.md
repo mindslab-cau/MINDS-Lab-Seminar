@@ -17,26 +17,26 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
-| January 16, 2025 - 1|   Htet Arkar   |   Large Language Models for Graph   |   [PDF](./presentations/LLMsForGraphs-HAK-Updated.pdf)     |
-| January 16, 2025 - 2|   -   |   -    |    -    |
-| January 21, 2025 - 1|   Htet Arkar   |   Graph Reasoning Enhanced Language Models for Question Answering (GreaseLM)   |   [PDF](./presentations/GreaseLM-HAK-updated.pdf)    |
-| January 21, 2025 - 2|   -   |   -    |   -    |
-| January 23, 2025 - 1|  Junseo Yu    |  GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning     |  [PDF](./presentations/GNNRAG_LabMeeting_YJS_250123.pdf)      |
-| January 23, 2025 - 2|  Hoonui Lee    |  SimKGC: Simple Contrastive Knowledge Graph Completion with Pre-trained Language Models     |   [PDF](./presentations/SimKGC_lhn.pdf)     |
-| February 6, 2025 - 1|  InHyeok Jeong    |   Batch/Layer Normalization     |  [PDF](./presentations/Batch&Layer_Normalization_JIH.pdf)     |
-| February 6, 2025 - 2|  Saejoon Park    |   Generative Adversarial Nets     |  [PDF](./presentations/GAN_PSJ_0206.pdf)     |
-| February 11, 2025 - 1|  Hoonui Lee    |  KG-BERT: BERT for Knowledge Graph Completion     |   [PDF](./presentations/KG-BERT_lhn.pdf)     |
-| February 11, 2025 - 2|  Hoonui Lee    |  Do Pre-trained Models Benefit Knowledge Graph Completion? A Reliable Evaluation and a Reasonable Approach     |  [PDF](./presentations/PKGC_lhn.pdf)      |
-| February 13, 2025 - 1|  Sooho Moon    |  Searching for Better Knowledge Graph Completion Evaluation Metrics : Recent Discoveries  |        |
-| February 13, 2025 - 2|  Sooho Moon    |  -  |       |
-| February 18, 2025 - 1|  Gyuwon Lee    |       |        |
-| February 18, 2025 - 2|  Saejoon Park   |  MADGAN & DCTGAN  |       |
-| February 20, 2025 - 1|  Junseo Yu  |       |        |
-| February 20, 2025 - 2|  Hoonui Lee  |  Knowledge Hypergraphs: Prediction Beyond Binary Relations  |       |
-| February 25, 2025 - 1|  Htet Arkar  |  Fairness-aware Graph Mining    |        |
-| February 25, 2025 - 2|      |       |       |
-| February 27, 2025 - 1|      |       |        |
-| February 27, 2025 - 2|      |       |       |
+| January 16, 2024 - 1|   Htet Arkar   |   Large Language Models for Graph   |   [PDF](./presentations/LLMsForGraphs-HAK-Updated.pdf)     |
+| January 16, 2024 - 2|   -   |   -    |    -    |
+| January 21, 2024 - 1|   Htet Arkar   |   Graph Reasoning Enhanced Language Models for Question Answering (GreaseLM)   |   [PDF](./presentations/GreaseLM-HAK-updated.pdf)    |
+| January 21, 2024 - 2|   -   |   -    |   -    |
+| January 23, 2024 - 1|  Junseo Yu    |  GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning     |  [PDF](./presentations/GNNRAG_LabMeeting_YJS_250123.pdf)      |
+| January 23, 2024 - 2|  Hoonui Lee    |  SimKGC: Simple Contrastive Knowledge Graph Completion with Pre-trained Language Models     |   [PDF](./presentations/SimKGC_lhn.pdf)     |
+| February 6, 2024 - 1|  InHyeok Jeong    |   Batch/Layer Normalization     |  [PDF](./presentations/Batch&Layer_Normalization_JIH.pdf)     |
+| February 6, 2024 - 2|  Saejoon Park    |   Generative Adversarial Nets     |  [PDF](./presentations/GAN_PSJ_0206.pdf)     |
+| February 11, 2024 - 1|  Hoonui Lee    |  KG-BERT: BERT for Knowledge Graph Completion     |   [PDF](./presentations/KG-BERT_lhn.pdf)     |
+| February 11, 2024 - 2|  Hoonui Lee    |  Do Pre-trained Models Benefit Knowledge Graph Completion? A Reliable Evaluation and a Reasonable Approach     |  [PDF](./presentations/PKGC_lhn.pdf)      |
+| February 13, 2024 - 1|  Sooho Moon    |  Searching for Better Knowledge Graph Completion Evaluation Metrics : Recent Discoveries  |        |
+| February 13, 2024 - 2|  Sooho Moon    |  -  |       |
+| February 18, 2024 - 1|  Gyuwon Lee    |       |        |
+| February 18, 2024 - 2|  Saejoon Park   |  MADGAN & DCTGAN  |       |
+| February 20, 2024 - 1|  Junseo Yu  |       |        |
+| February 20, 2024 - 2|  Hoonui Lee  |  Knowledge Hypergraphs: Prediction Beyond Binary Relations  |       |
+| February 25, 2024 - 1|  Htet Arkar  |  Fairness-aware Graph Mining    |        |
+| February 25, 2024 - 2|      |       |       |
+| February 27, 2024 - 1|      |       |        |
+| February 27, 2024 - 2|      |       |       |
 
 ---
 
