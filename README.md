@@ -27,7 +27,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | February 6, 2025 - 2|  Saejoon Park    |   Generative Adversarial Nets     |  [PDF](./presentations/GAN_PSJ_0206.pdf)     |
 | February 11, 2025 - 1|  Hoonui Lee    |  KG-BERT: BERT for Knowledge Graph Completion     |   [PDF](./presentations/KG-BERT_lhn.pdf)     |
 | February 11, 2025 - 2|  Hoonui Lee    |  Do Pre-trained Models Benefit Knowledge Graph Completion? A Reliable Evaluation and a Reasonable Approach     |  [PDF](./presentations/PKGC_lhn.pdf)      |
-| February 13, 2025 - 1|  Sooho Moon    |  Searching for Better Knowledge Graph Completion Evaluation Metrics : Recent Discoveries  |        |
+| February 13, 2025 - 1|  Sooho Moon    |  Searching for Better Knowledge Graph Completion Evaluation Metrics : Recent Discoveries  |  [PDF](./presentations/Evaluation_Metrics_Recent_Discoveries.pdf)      |
 | February 13, 2025 - 2|  Sooho Moon    |  -  |       |
 | February 18, 2025 - 1|  Gyuwon Lee    |  Multivariate Time Series Anomaly Detection and Interpretation using Hierarchical Inter-Metric and Temporal Embedding     |        |
 | February 18, 2025 - 2|  Saejoon Park   |  MADGAN & DCTGAN  |       |
