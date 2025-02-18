@@ -30,7 +30,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | February 13, 2025 - 1|  Sooho Moon    |  Searching for Better Knowledge Graph Completion Evaluation Metrics : Recent Discoveries  |  [PDF](./presentations/Evaluation_Metrics_Recent_Discoveries.pdf)      |
 | February 13, 2025 - 2|  Sooho Moon    |  -  |       |
 | February 18, 2025 - 1|  Gyuwon Lee    |  Multivariate Time Series Anomaly Detection and Interpretation using Hierarchical Inter-Metric and Temporal Embedding     |   [PDF](./presentations/Interfusion_v4.pdf)    |
-| February 18, 2025 - 2|  Saejoon Park   |  MADGAN & DCTGAN  |       |
+| February 18, 2025 - 2|  Saejoon Park   |  MADGAN & DCTGAN  |  [PDF](./presentations/MAD-GAN.pdf)      |
 | February 20, 2025 - 1|  Junseo Yu  |       |        |
 | February 20, 2025 - 2|  Hoonui Lee  |  Knowledge Hypergraphs: Prediction Beyond Binary Relations  |       |
 | February 25, 2025 - 1|  Htet Arkar  |  Fairness-aware Graph Mining    |        |
