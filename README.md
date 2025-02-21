@@ -33,7 +33,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | February 18, 2025 - 2|  Saejoon Park   |  MADGAN  |  [PDF](./presentations/MAD-GAN.pdf)      |
 | February 20, 2025 - 1|  Hoonui Lee  |  Knowledge Hypergraphs: Prediction Beyond Binary Relations  |  [PDF](./presentations/HSimplE\&HypE.pdf)     |
 | February 20, 2025 - 2|  Junseo Yu  |  GraphRAG & QFS      |  [PDF](./presentations/GraphRAG_and_QFS.pdf)      |
-| February 25, 2025 - 1|  Htet Arkar  |  Fairness-aware Graph Mining    |        |
+| February 25, 2025 - 1|  InHyeok Jeong  |  GCN & LightGCN    |        |
 | February 25, 2025 - 2|      |       |       |
 | February 27, 2025 - 1|      |       |        |
 | February 27, 2025 - 2|      |       |       |
