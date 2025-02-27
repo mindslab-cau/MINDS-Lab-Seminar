@@ -35,7 +35,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | February 20, 2025 - 2|  Junseo Yu  |  GraphRAG & QFS      |  [PDF](./presentations/GraphRAG_and_QFS.pdf)      |
 | February 25, 2025 - 1|  InHyeok Jeong  |  GCN & LightGCN    |   [PDF](./presentations/GCN_LightGCN_JIH.pdf)     |
 | February 25, 2025 - 2|   -   |   -    |   -    |
-| February 27, 2025 - 1|      |       |        |
+| February 27, 2025 - 1|   Htet Arkar    |  Fairness-aware Graph Learning     |  [PDF](./presentations/FairGL-HAK.pdf)       |
 | February 27, 2025 - 2|      |       |       |
 
 ---
