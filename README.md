@@ -4,7 +4,7 @@ The main purpose of this seminar is to educate and inform its members of the rec
 
 ### Regular meeting.
 
-**Time**: 16:00pm - 18:00pm, every Tuesday and Thursday.
+**Time**: 18:00pm - 20:00pm, every Thursday.
 
 **Room**: Room #514-1, Building #208
 
@@ -12,6 +12,44 @@ If you would like to present in an upcoming meeting, please submit a pull reques
 
 Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation slides to this github repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to represent a week ahead of your presentation.
 
+### Schedule for Spring 2025
+
+|    Dates     |  Presenters   |        Topics         | Materials |
+| :----------: | :-----------: | :-------------------: | :-------: |
+| March 13, 2025 - 1|     |      |       |
+| March 13, 2025 - 2|     |      |       |
+| March 20, 2025 - 1|     |      |       |
+| March 20, 2025 - 2|     |      |       |
+| March 27, 2025 - 1|     |      |       |
+| March 27, 2025 - 2|     |      |       |
+| April 3, 2025 - 1|     |      |       |
+| April 3, 2025 - 2|     |      |       |
+| April 10, 2025 - 1|     |      |       |
+| April 10, 2025 - 2|     |      |       |
+| April 17, 2025 - 1|     |      |       |
+| April 17, 2025 - 2|     |      |       |
+| April 24, 2025 - 1|     |      |       |
+| April 24, 2025 - 2|     |      |       |
+| May 1, 2025 - 1|     |      |       |
+| May 1, 2025 - 2|     |      |       |
+| May 8, 2025 - 1|     |      |       |
+| May 8, 2025 - 2|     |      |       |
+| May 15, 2025 - 1|     |      |       |
+| May 15, 2025 - 2|     |      |       |
+| May 22, 2025 - 1|     |      |       |
+| May 22, 2025 - 2|     |      |       |
+| May 29, 2025 - 1|     |      |       |
+| May 29, 2025 - 2|     |      |       |
+| June 5, 2025 - 1|     |      |       |
+| June 5, 2025 - 2|     |      |       |
+| June 12, 2025 - 1|     |      |       |
+| June 12, 2025 - 2|     |      |       |
+
+
+
+
+
+---
 
 ### Schedule for Winter 2025
 
