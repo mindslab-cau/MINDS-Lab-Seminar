@@ -16,7 +16,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
-| March 13, 2025 - 1|     |      |       |
+| March 13, 2025 - 1|  HoonUi Lee   |  HyConvE&HyCubE    |  [PDF](./presentations/HyConvE&HyCubE.pdf)     |
 | March 13, 2025 - 2|     |      |       |
 | March 20, 2025 - 1|     |      |       |
 | March 20, 2025 - 2|     |      |       |
