@@ -17,11 +17,11 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
 | March 13, 2025 - 1|  HoonUi Lee   |  HyConvE&HyCubE    |  [PDF](./presentations/HyConvE&HyCubE.pdf)     |
-| March 13, 2025 - 2|     |      |       |
-| March 20, 2025 - 1|     |      |       |
-| March 20, 2025 - 2|     |      |       |
-| March 27, 2025 - 1|     |      |       |
-| March 27, 2025 - 2|     |      |       |
+| March 13, 2025 - 2|  -   |  -    |    -   |
+| March 20, 2025 - 1|  SuYong Jeong    |      |       |
+| March 20, 2025 - 2|  -   |  -    |   -     |
+| March 27, 2025 - 1|  YeonGon Kim   |      |       |
+| March 27, 2025 - 2|  -   |  -    |    -   |
 | April 3, 2025 - 1|     |      |       |
 | April 3, 2025 - 2|     |      |       |
 | April 10, 2025 - 1|     |      |       |
