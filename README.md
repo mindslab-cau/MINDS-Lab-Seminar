@@ -20,7 +20,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | March 13, 2025 - 2|  -   |  -    |    -   |
 | March 20, 2025 - 1|  SuYong Jeong    |  Deep Learning    |  [PDF](./presentations/Deeplearning_JeongSuYong.pdf)     |
 | March 20, 2025 - 2|  -   |  -    |   -     |
-| March 27, 2025 - 1|  YeonGon Kim   |      |       |
+| March 27, 2025 - 1|  YeonGon Kim   |  VICREG   |  [PDF](./presentations/VICReg-lab.pdf)     |
 | March 27, 2025 - 2|  -   |  -    |    -   |
 | April 3, 2025 - 1|     |      |       |
 | April 3, 2025 - 2|     |      |       |
