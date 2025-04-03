@@ -22,7 +22,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | March 20, 2025 - 2|  -   |  -    |   -     |
 | March 27, 2025 - 1|  YeonGon Kim   |  VICREG   |  [PDF](./presentations/VICReg-lab.pdf)     |
 | March 27, 2025 - 2|  -   |  -    |    -   |
-| April 3, 2025 - 1|  InHyeok Jeong   |  How to learn Hypergraphs_JIH     |  [PDF](./presentations/How to learn Hypergraphs_JIH.pdf)     |
+| April 3, 2025 - 1|  InHyeok Jeong   |  How to learn Hypergraphs_JIH     |  [PDF](./presentations/How\ to\ learn\ Hypergraphs_JIH.pdf)     |
 | April 3, 2025 - 2|     |      |       |
 | April 10, 2025 - 1|     |      |       |
 | April 10, 2025 - 2|     |      |       |
