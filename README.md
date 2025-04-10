@@ -24,8 +24,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | March 27, 2025 - 2|  -   |  -    |    -   |
 | April 3, 2025 - 1|  InHyeok Jeong   |  How to learn Hypergraphs     |  [PDF](./presentations/How%20to%20learn%20Hypergraphs_JIH.pdf)     |
 | April 3, 2025 - 2|  -   |  -    |  -     |
-| April 10, 2025 - 1|  Sohoo Moon    |  Exploring the Unknown : 
-Negative Sampling for Knowledge Graph Completion    |  [PDF](./presentations/Negative.pdf)     |
+| April 10, 2025 - 1|  Sohoo Moon    |  Exploring the Unknown : Negative Sampling for Knowledge Graph Completion    |  [PDF](./presentations/Negative.pdf)     |
 | April 10, 2025 - 2|  -   |   -   |   -    |
 | May 1, 2025 - 1|     |      |       |
 | May 1, 2025 - 2|     |      |       |
