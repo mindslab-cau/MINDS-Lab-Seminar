@@ -16,22 +16,12 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
-| March 13, 2025 - 1|  HoonUi Lee   |  HyConvE&HyCubE    |  [PDF](./presentations/HyConvE&HyCubE.pdf)     |
-| March 13, 2025 - 2|  -   |  -    |    -   |
-| March 20, 2025 - 1|  SuYong Jeong    |  Deep Learning    |  [PDF](./presentations/Deeplearning_JeongSuYong.pdf)     |
-| March 20, 2025 - 2|  -   |  -    |   -     |
-| March 27, 2025 - 1|  YeonGon Kim   |  VICREG   |  [PDF](./presentations/VICReg-lab.pdf)     |
-| March 27, 2025 - 2|  -   |  -    |    -   |
-| April 3, 2025 - 1|  InHyeok Jeong   |  How to learn Hypergraphs     |  [PDF](./presentations/How%20to%20learn%20Hypergraphs_JIH.pdf)     |
-| April 3, 2025 - 2|  -   |  -    |  -     |
-| April 10, 2025 - 1|  Sohoo Moon    |  Exploring the Unknown : Negative Sampling for Knowledge Graph Completion    |  [PDF](./presentations/Negative.pdf)     |
-| April 10, 2025 - 2|  -   |   -   |   -    |
-| May 1, 2025 - 1|     |      |       |
-| May 1, 2025 - 2|     |      |       |
-| May 8, 2025 - 1|     |      |       |
-| May 8, 2025 - 2|     |      |       |
-| May 15, 2025 - 1|     |      |       |
-| May 15, 2025 - 2|     |      |       |
+| March 13, 2025 |  HoonUi Lee   |  HyConvE&HyCubE    |  [PDF](./presentations/HyConvE&HyCubE.pdf)     |
+| March 20, 2025 |  SuYong Jeong    |  Deep Learning    |  [PDF](./presentations/Deeplearning_JeongSuYong.pdf)     |
+| March 27, 2025 |  YeonGon Kim   |  VICREG   |  [PDF](./presentations/VICReg-lab.pdf)     |
+| April 3, 2025 |  InHyeok Jeong   |  How to learn Hypergraphs     |  [PDF](./presentations/How%20to%20learn%20Hypergraphs_JIH.pdf)     |
+| April 10, 2025 |  Sohoo Moon    |  Exploring the Unknown : Negative Sampling for Knowledge Graph Completion    |  [PDF](./presentations/Negative.pdf)     |
+| May 16, 2025 |  Htet Arkar   |  Fairness-aware Graph Learning (2)     |  [PDF](./presentations/FGL2-HAK.pdf)     |
 | May 22, 2025 - 1|     |      |       |
 | May 22, 2025 - 2|     |      |       |
 | May 29, 2025 - 1|     |      |       |
