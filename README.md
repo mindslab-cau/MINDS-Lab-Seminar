@@ -22,15 +22,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | April 3, 2025 |  InHyeok Jeong   |  How to learn Hypergraphs     |  [PDF](./presentations/How%20to%20learn%20Hypergraphs_JIH.pdf)     |
 | April 10, 2025 |  Sohoo Moon    |  Exploring the Unknown : Negative Sampling for Knowledge Graph Completion    |  [PDF](./presentations/Negative.pdf)     |
 | May 16, 2025 |  Htet Arkar   |  Fairness-aware Graph Learning (2)     |  [PDF](./presentations/FGL2-HAK.pdf)     |
-| May 29, 2025 - 1|  YeonGon Kim   |   Graph Unlearning    |  [PDF](./presentations/GraphUnlearning-lab.pdf)     |
-| June 5, 2025 - 1|     |      |       |
-| June 5, 2025 - 2|     |      |       |
-| June 12, 2025 - 1|     |      |       |
-| June 12, 2025 - 2|     |      |       |
-
-
-
-
+| May 29, 2025 |  YeonGon Kim   |   Graph Unlearning    |  [PDF](./presentations/GraphUnlearning-lab.pdf)     |
 
 ---
 
