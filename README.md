@@ -4,13 +4,36 @@ The main purpose of this seminar is to educate and inform its members of the rec
 
 ### Regular meeting.
 
-**Time**: 18:00pm - 20:00pm, every Thursday.
+**Time**: 13:00pm - 15:00pm every Tuesday, 16:00pm - 18:00pm every Thursday.
 
-**Room**: Room #514-1, Building #208
+**Room**: Room #529, Building #208
 
-If you would like to present in an upcoming meeting, please submit a pull request for registering or email *Hoonui LEE (이훈의)[gnsdml1@cau.ac.kr]*.
+If you would like to present in an upcoming meeting, please submit a pull request for registering or email *Hoonui LEE (이훈의)[lhnui01@gmail.com]*.
 
 Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation slides to this github repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to represent a week ahead of your presentation.
+
+### Schedule for Summber 2025
+
+|    Dates     |  Presenters   |        Topics         | Materials |
+| :----------: | :-----------: | :-------------------: | :-------: |
+| July 8, 2025 |     |     |       |
+| July 10, 2025 |     |     |       |
+| July 15, 2025 |     |     |       |
+| July 17, 2025 |     |     |       |
+| July 22, 2025 |     |     |       |
+| July 24, 2025 |     |     |       |
+| July 29, 2025 |     |     |       |
+| July 31, 2025 |     |     |       |
+| August 5, 2025 |     |     |       |
+| August 7, 2025 |     |     |       |
+| August 12, 2025 |     |     |       |
+| August 14, 2025 |     |     |       |
+| August 19, 2025 |     |     |       |
+| August 21, 2025 |     |     |       |
+| August 26, 2025 |     |     |       |
+| August 28, 2025 |     |     |       |
+
+
 
 ### Schedule for Spring 2025
 
@@ -22,15 +45,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | April 3, 2025 |  InHyeok Jeong   |  How to learn Hypergraphs     |  [PDF](./presentations/How%20to%20learn%20Hypergraphs_JIH.pdf)     |
 | April 10, 2025 |  Sohoo Moon    |  Exploring the Unknown : Negative Sampling for Knowledge Graph Completion    |  [PDF](./presentations/Negative.pdf)     |
 | May 16, 2025 |  Htet Arkar   |  Fairness-aware Graph Learning (2)     |  [PDF](./presentations/FGL2-HAK.pdf)     |
-| May 29, 2025 - 1|  YeonGon Kim   |   Graph Unlearning    |  [PDF](./presentations/GraphUnlearning-lab.pdf)     |
-| June 5, 2025 - 1|     |      |       |
-| June 5, 2025 - 2|     |      |       |
-| June 12, 2025 - 1|     |      |       |
-| June 12, 2025 - 2|     |      |       |
-
-
-
-
+| May 29, 2025 |  YeonGon Kim   |   Graph Unlearning    |  [PDF](./presentations/GraphUnlearning-lab.pdf)     |
 
 ---
 
