@@ -4,11 +4,11 @@ The main purpose of this seminar is to educate and inform its members of the rec
 
 ### Regular meeting.
 
-**Time**: 13:00pm - 15:00pm, every Tuesday, Thursday.
+**Time**: 13:00pm - 15:00pm every Tuesday, 16:00pm - 18:00pm every Thursday.
 
-**Room**: Room #514-1, Building #208
+**Room**: Room #529, Building #208
 
-If you would like to present in an upcoming meeting, please submit a pull request for registering or email *Hoonui LEE (이훈의)[gnsdml1@cau.ac.kr]*.
+If you would like to present in an upcoming meeting, please submit a pull request for registering or email *Hoonui LEE (이훈의)[lhnui01@gmail.com]*.
 
 Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation slides to this github repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to represent a week ahead of your presentation.
 
