@@ -12,7 +12,7 @@ If you would like to present in an upcoming meeting, please submit a pull reques
 
 Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation slides to this github repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to represent a week ahead of your presentation.
 
-### Schedule for Summber 2025
+### Schedule for Summer 2025
 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
