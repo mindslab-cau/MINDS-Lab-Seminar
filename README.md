@@ -4,7 +4,7 @@ The main purpose of this seminar is to educate and inform its members of the rec
 
 ### Regular meeting.
 
-**Time**: 13:00pm - 15:00pm every Tuesday, 16:00pm - 18:00pm every Thursday.
+**Time**: 15:00pm - 17:00pm every Tuesday, 16:00pm - 18:00pm every Thursday.
 
 **Room**: Room #529, Building #208
 
