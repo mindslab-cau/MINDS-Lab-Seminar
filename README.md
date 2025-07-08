@@ -4,7 +4,7 @@ The main purpose of this seminar is to educate and inform its members of the rec
 
 ### Regular meeting.
 
-**Time**: 13:00pm - 15:00pm every Tuesday, 16:00pm - 18:00pm every Thursday.
+**Time**: 15:00pm - 17:00pm every Tuesday, 16:00pm - 18:00pm every Thursday.
 
 **Room**: Room #529, Building #208
 
@@ -16,7 +16,8 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
-| July 8, 2025 |     |     |       |
+| July 8, 2025 - 1 |  YeonGon Kim   |  Deep Learning & BN & LN   |       |
+| July 8, 2025 - 2 |  InHyeok Jeong   |  ResNet & LSTM/GRU   |  [PDF](./presentations/ResNet_JIH.pdf) [PDF](./presentations/LSTM%20%26%20GRU_JIH.pdf)    |
 | July 10, 2025 |     |     |       |
 | July 15, 2025 |     |     |       |
 | July 17, 2025 |     |     |       |
