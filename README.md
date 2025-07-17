@@ -19,7 +19,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | July 8, 2025 - 1 |  YeonGon Kim   |  Deep Learning & BN & LN   |  [PDF](./presentations/DeepLearning-gon.pdf)      |
 | July 8, 2025 - 2 |  InHyeok Jeong   |  ResNet & LSTM/GRU   |  [PDF](./presentations/ResNet_JIH.pdf) [PDF](./presentations/LSTM%20%26%20GRU_JIH.pdf)    |
 | July 10, 2025 |  SuYong Jeong   |  Transformer & SetTransformer   |  [PDF](./presentations/Trans_and_SetTrans.pdf)    |
-| July 17, 2025 - 1 |  Junseo Yu   |     |       |
+| July 17, 2025 - 1 |  Junseo Yu   |  PageRank & FastRWR   |    [PDF](./presentations/PageRank_FastRWR.pdf)   |
 | July 17, 2025 - 2 |  Htet Arkar   |  Random Walk Approaches to Node Embeddings   |  [PDF](./presentations/RandomWalk_HAK.pdf)     |
 | July 22, 2025 |     |     |       |
 | July 24, 2025 |     |     |       |
