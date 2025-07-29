@@ -12,7 +12,7 @@ If you would like to present in an upcoming meeting, please submit a pull reques
 
 Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation slides to this github repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to represent a week ahead of your presentation.
 
-### Schedule for Summber 2025
+### Schedule for Summer 2025
 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
@@ -22,7 +22,8 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | July 17, 2025 - 1 |  Junseo Yu   |  PageRank & FastRWR   |    [PDF](./presentations/PageRank_FastRWR.pdf)   |
 | July 17, 2025 - 2 |  Htet Arkar   |  Random Walk Approaches to Node Embeddings   |  [PDF](./presentations/RandomWalk_HAK.pdf)     |
 | July 22, 2025 |     |     |       |
-| July 24, 2025 |     |     |       |
+| July 24, 2025 |  YeonGon Kim    |  Deep Learning & BN & LN   |  [PDF](./presentations/DeepLearning-lab.pdf) [PDF](./presentations/BatchNorm-gon.pdf) [PDF](./presentations/LayerNorm-lab.pdf)   |
+| July 24, 2025 |  Gyuwon Lee    |  VAE & GAN & DDPM   |  [PDF](./presentations/Auto_Encoding_Variational_Bayes.pdf) [PDF](./presentations/Generative_Adversarial_Nets.pdf) [PDF](./presentations/Denoising_Diffusion_Probabilistic_Models.pdf)   |
 | July 29, 2025 |     |     |       |
 | July 31, 2025 |     |     |       |
 | August 5, 2025 |     |     |       |
