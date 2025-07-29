@@ -4,7 +4,7 @@ The main purpose of this seminar is to educate and inform its members of the rec
 
 ### Regular meeting.
 
-**Time**: 15:00pm - 17:00pm every Tuesday, 16:00pm - 18:00pm every Thursday.
+**Time**: 16:00pm - 18:00pm every Tuesday, Thursday.
 
 **Room**: Room #529, Building #208
 
@@ -21,10 +21,10 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | July 10, 2025 |  SuYong Jeong   |  Transformer & SetTransformer   |  [PDF](./presentations/Trans_and_SetTrans.pdf)    |
 | July 17, 2025 - 1 |  Junseo Yu   |  PageRank & FastRWR   |    [PDF](./presentations/PageRank_FastRWR.pdf)   |
 | July 17, 2025 - 2 |  Htet Arkar   |  Random Walk Approaches to Node Embeddings   |  [PDF](./presentations/RandomWalk_HAK.pdf)     |
-| July 22, 2025 |     |     |       |
-| July 24, 2025 |  YeonGon Kim    |  Deep Learning & BN & LN   |  [PDF](./presentations/DeepLearning-lab.pdf) [PDF](./presentations/BatchNorm-gon.pdf) [PDF](./presentations/LayerNorm-lab.pdf)   |
-| July 24, 2025 |  Gyuwon Lee    |  VAE & GAN & DDPM   |  [PDF](./presentations/Auto_Encoding_Variational_Bayes.pdf) [PDF](./presentations/Generative_Adversarial_Nets.pdf) [PDF](./presentations/Denoising_Diffusion_Probabilistic_Models.pdf)   |
-| July 29, 2025 |     |     |       |
+| July 24, 2025 - 1 |  YeonGon Kim    |  Deep Learning & BN & LN   |  [PDF](./presentations/DeepLearning-lab.pdf) [PDF](./presentations/BatchNorm-gon.pdf) [PDF](./presentations/LayerNorm-lab.pdf)   |
+| July 24, 2025 - 2|  Gyuwon Lee    |  VAE & GAN & DDPM   |  [PDF](./presentations/Auto_Encoding_Variational_Bayes.pdf) [PDF](./presentations/Generative_Adversarial_Nets.pdf) [PDF](./presentations/Denoising_Diffusion_Probabilistic_Models.pdf)   |
+| July 29, 2025 - 1 |  JuHui Jo  |  GCN & VGAE & GraphSAGE   |  [PDF](./presentations/gcn_vgae_graphsage.pdf)    |
+| July 29, 2025 - 2 |  SaeJoon Park   |  GAT & GIN   |   [PDF](./presentations/Graph_Attention_Network_PSJ.pdf) [PDF](./presentations/Graph_Isomorphism_Network_PSJ.pdf)     |
 | July 31, 2025 |     |     |       |
 | August 5, 2025 |     |     |       |
 | August 7, 2025 |     |     |       |
