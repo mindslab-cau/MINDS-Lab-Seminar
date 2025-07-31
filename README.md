@@ -25,7 +25,8 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | July 24, 2025 - 2|  Gyuwon Lee    |  VAE & GAN & DDPM   |  [PDF](./presentations/Auto_Encoding_Variational_Bayes.pdf) [PDF](./presentations/Generative_Adversarial_Nets.pdf) [PDF](./presentations/Denoising_Diffusion_Probabilistic_Models.pdf)   |
 | July 29, 2025 - 1 |  JuHui Jo  |  GCN & VGAE & GraphSAGE   |  [PDF](./presentations/gcn_vgae_graphsage.pdf)    |
 | July 29, 2025 - 2 |  SaeJoon Park   |  GAT & GIN   |   [PDF](./presentations/Graph_Attention_Network_PSJ.pdf) [PDF](./presentations/Graph_Isomorphism_Network_PSJ.pdf)     |
-| July 31, 2025 |     |     |       |
+| July 31, 2025 - 1 |  HoonUi Lee   |  Recommendation System   |   [PDF](./presentations/Recsys.pdf)    |
+| July 31, 2025 - 2|  Sohoo Moon   |  NeuMF & VAE for CF & LightGCN   |  [PDF](./presentations/NeuMF_VAEforCF_LightGCN.pdf)    |
 | August 5, 2025 |     |     |       |
 | August 7, 2025 |     |     |       |
 | August 12, 2025 |     |     |       |
