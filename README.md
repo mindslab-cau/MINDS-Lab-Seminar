@@ -29,10 +29,10 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | August 5, 2025 |  Sohoo Moon   |  NeuMF & VAE for CF & LightGCN   |  [PDF](./presentations/NeuMF_VAEforCF_LightGCN.pdf)    |
 | August 7, 2025 |  InHyeok Jeong    |  Hypergraph Motifs  |  [PDF](./presentations/Hypergraph_Motifs_JIH.pdf)      |
 | August 21, 2025 |  SuYong Jeong   |  TGN & TPG   |  [PDF](./presentations/TGN_TPG.pdf)      |
-| August 26, 2025 |     |     |       |
+| August 26, 2025 |  YeonGon Kim    |  Influence Function   |  [PDF](./presentations/InfluenceFunction-gon.pdf)     |
 | August 28, 2025 |     |     |       |
 
-
+---
 
 ### Schedule for Spring 2025
 
@@ -52,26 +52,21 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
-| January 16, 2025 - 1|   Htet Arkar   |   Large Language Models for Graph   |   [PDF](./presentations/LLMsForGraphs-HAK-Updated.pdf)     |
-| January 16, 2025 - 2|   -   |   -    |    -    |
-| January 21, 2025 - 1|   Htet Arkar   |   Graph Reasoning Enhanced Language Models for Question Answering (GreaseLM)   |   [PDF](./presentations/GreaseLM-HAK-updated.pdf)    |
-| January 21, 2025 - 2|   -   |   -    |   -    |
+| January 16, 2025 |   Htet Arkar   |   Large Language Models for Graph   |   [PDF](./presentations/LLMsForGraphs-HAK-Updated.pdf)     |
+| January 21, 2025 |   Htet Arkar   |   Graph Reasoning Enhanced Language Models for Question Answering (GreaseLM)   |   [PDF](./presentations/GreaseLM-HAK-updated.pdf)    |
 | January 23, 2025 - 1|  Junseo Yu    |  GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning     |  [PDF](./presentations/GNNRAG_LabMeeting_YJS_250123.pdf)      |
 | January 23, 2025 - 2|  Hoonui Lee    |  SimKGC: Simple Contrastive Knowledge Graph Completion with Pre-trained Language Models     |   [PDF](./presentations/SimKGC_lhn.pdf)     |
 | February 6, 2025 - 1|  InHyeok Jeong    |   Batch/Layer Normalization     |  [PDF](./presentations/Batch&Layer_Normalization_JIH.pdf)     |
 | February 6, 2025 - 2|  Saejoon Park    |   Generative Adversarial Nets     |  [PDF](./presentations/GAN_PSJ_0206.pdf)     |
 | February 11, 2025 - 1|  Hoonui Lee    |  KG-BERT: BERT for Knowledge Graph Completion     |   [PDF](./presentations/KG-BERT_lhn.pdf)     |
 | February 11, 2025 - 2|  Hoonui Lee    |  Do Pre-trained Models Benefit Knowledge Graph Completion? A Reliable Evaluation and a Reasonable Approach     |  [PDF](./presentations/PKGC_lhn.pdf)      |
-| February 13, 2025 - 1|  Sooho Moon    |  Searching for Better Knowledge Graph Completion Evaluation Metrics : Recent Discoveries  |  [PDF](./presentations/Evaluation_Metrics_Recent_Discoveries.pdf)      |
-| February 13, 2025 - 2|  Sooho Moon    |  -  |   -    |
+| February 13, 2025 |  Sooho Moon    |  Searching for Better Knowledge Graph Completion Evaluation Metrics : Recent Discoveries  |  [PDF](./presentations/Evaluation_Metrics_Recent_Discoveries.pdf)      |
 | February 18, 2025 - 1|  Gyuwon Lee    |  Multivariate Time Series Anomaly Detection and Interpretation using Hierarchical Inter-Metric and Temporal Embedding     |   [PDF](./presentations/Interfusion_v4.pdf)    |
 | February 18, 2025 - 2|  Saejoon Park   |  MADGAN  |  [PDF](./presentations/MAD-GAN.pdf)      |
 | February 20, 2025 - 1|  Hoonui Lee  |  Knowledge Hypergraphs: Prediction Beyond Binary Relations  |  [PDF](./presentations/HSimplE\&HypE.pdf)     |
 | February 20, 2025 - 2|  Junseo Yu  |  GraphRAG & QFS      |  [PDF](./presentations/GraphRAG_and_QFS.pdf)      |
-| February 25, 2025 - 1|  InHyeok Jeong  |  GCN & LightGCN    |   [PDF](./presentations/GCN_LightGCN_JIH.pdf)     |
-| February 25, 2025 - 2|   -   |   -    |   -    |
-| February 27, 2025 - 1|   Htet Arkar    |  Fairness-aware Graph Learning     |  [PDF](./presentations/FairGL-HAK.pdf)       |
-| February 27, 2025 - 2|      |       |       |
+| February 25, 2025 |  InHyeok Jeong  |  GCN & LightGCN    |   [PDF](./presentations/GCN_LightGCN_JIH.pdf)     |
+| February 27, 2025 |   Htet Arkar    |  Fairness-aware Graph Learning     |  [PDF](./presentations/FairGL-HAK.pdf)       |
 
 ---
 
@@ -83,8 +78,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | September 13, 2024 - 2|   Sooho Moon   |    RLogic: Recursive Logical Rule Learning from Knowledge Graphs    |  [PDF](./presentations/RLogic(2022).pdf)      |
 | September 20, 2024 - 1|   Junseo Yu   |    FairWalk & CrossWalk    |   [PDF](./presentations/Labmeeting_yjs_1_pdf.pdf)         |
 | September 20, 2024 - 2|   Junseo Yu   |    InFoRM: Individual Fairness on Graph Mining    |   [PDF](./presentations/Labmeeting_yjs_2_pdf.pdf)
-| September 27, 2024 - 1|   Htet Arkar   |    GNN for Social Recommender Systems    |    [PDF](./presentations/SocialRS_HAK.pdf)         |
-| September 27, 2024 - 2|    -    |    -    |    -    |
+| September 27, 2024 |   Htet Arkar   |    GNN for Social Recommender Systems    |    [PDF](./presentations/SocialRS_HAK.pdf)         |
 | October 4, 2024 - 1|   Junseo Yu   |    Disentangled Graph Convolutional Networks    |    [PDF](./presentations/Labmeeting_yjs_241004.pdf)         |
 | October 4, 2024 - 2|   Htet Arkar   |    A Graph Neural Network Framework for Social Recommendation    |    [PDF](./presentations/SocialRS(2)_HAK.pdf)         |
 | October 11, 2024 - 1|   Sooho Moon   |    Link Prediction Based on Graph Neural Networks (SEAL)    |    [PDF](./presentations/SEAL(2018).pdf)          |
@@ -116,8 +110,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | July 23, 2024 - 2|   Htet Arkar    |       Inductive Representation Learning on Large Graphs         |     [PDF](./presentations/GraphSAGE-HAK.pdf)        |
 | July 30, 2024 - 1|   Hoonui Lee    |      TransE & DistMult       |    [PDF](./presentations/TransE_DistMult_lhn.pdf)       |
 | July 30, 2024 - 2|   Sooho Moon    |      ComplEx & RotatE       |    [PDF](./presentations/ComplEx_MSH.pdf) [PDF](./presentations/RotatE_MSH.pdf)       |
-| August 6, 2024 - 1|   Htet Arkar    |      Neural Graph Collaborative Filtering and Simplifying and Powering Graph Convolution Network for Recommendation       |    [PDF](./presentations/NGCF_LightGCN_HAK.pdf)       |
-| August 6, 2024 - 2|          |                |             |
+| August 6, 2024 |   Htet Arkar    |      Neural Graph Collaborative Filtering and Simplifying and Powering Graph Convolution Network for Recommendation       |    [PDF](./presentations/NGCF_LightGCN_HAK.pdf)       |
 | August 13, 2024 - 1|   Gyuwon Lee   |    Attention Is All You Need    |    [PDF](./presentations/AttentionIsAllYouNeed_gyuwon.pdf)         |   
 | August 13, 2024 - 2|    Saejoon Park   |    Multivariate Time-series Anomaly Detection via Graph Attention Network            |   [PDF](./presentations/MTAD-GAT_PSJ.pdf)          |
 | August 20, 2024 - 1|    Hoonui Lee      |   Differentiable Learning of Logical Rules for Knowledge Base Reasoning             |   [PDF](./presentations/NeuralLP_lhn.pdf)            |
