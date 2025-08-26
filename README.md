@@ -29,7 +29,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | August 5, 2025 |  Sohoo Moon   |  NeuMF & VAE for CF & LightGCN   |  [PDF](./presentations/NeuMF_VAEforCF_LightGCN.pdf)    |
 | August 7, 2025 |  InHyeok Jeong    |  Hypergraph Motifs  |  [PDF](./presentations/Hypergraph_Motifs_JIH.pdf)      |
 | August 21, 2025 |  SuYong Jeong   |  TGN & TPG   |  [PDF](./presentations/TGN_TPG.pdf)      |
-| August 26, 2025 |     |     |       |
+| August 26, 2025 |  YeonGon Kim    |  Influence Function   |  [PDF](./presentations/InfluenceFunction-gon.pdf)     |
 | August 28, 2025 |     |     |       |
 
 ---
