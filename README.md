@@ -23,14 +23,14 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | July 17, 2025 - 2 |  Htet Arkar   |  Random Walk Approaches to Node Embeddings   |  [PDF](./presentations/RandomWalk_HAK.pdf)     |
 | July 24, 2025 - 1 |  YeonGon Kim    |  Deep Learning & BN & LN   |  [PDF](./presentations/DeepLearning-lab.pdf) [PDF](./presentations/BatchNorm-gon.pdf) [PDF](./presentations/LayerNorm-lab.pdf)   |
 | July 24, 2025 - 2|  Gyuwon Lee    |  VAE & GAN & DDPM   |  [PDF](./presentations/Auto_Encoding_Variational_Bayes.pdf) [PDF](./presentations/Generative_Adversarial_Nets.pdf) [PDF](./presentations/Denoising_Diffusion_Probabilistic_Models.pdf)   |
-| July 29, 2025 - 1 |  JuHui Jo  |  GCN & VGAE & GraphSAGE   |  [PDF](./presentations/gcn_vgae_graphsage.pdf)    |
+| July 29, 2025 - 1 |  Joohee Cho  |  GCN & VGAE & GraphSAGE   |  [PDF](./presentations/gcn_vgae_graphsage.pdf)    |
 | July 29, 2025 - 2 |  SaeJoon Park   |  GAT & GIN   |   [PDF](./presentations/Graph_Attention_Network_PSJ.pdf) [PDF](./presentations/Graph_Isomorphism_Network_PSJ.pdf)     |
 | July 31, 2025 |  HoonUi Lee   |  Recommendation System   |   [PDF](./presentations/Recsys.pdf)    |
 | August 5, 2025 |  Sohoo Moon   |  NeuMF & VAE for CF & LightGCN   |  [PDF](./presentations/NeuMF_VAEforCF_LightGCN.pdf)    |
 | August 7, 2025 |  InHyeok Jeong    |  Hypergraph Motifs  |  [PDF](./presentations/Hypergraph_Motifs_JIH.pdf)      |
 | August 21, 2025 |  SuYong Jeong   |  TGN & TPG   |  [PDF](./presentations/TGN_TPG.pdf)      |
 | August 26, 2025 |  YeonGon Kim    |  Influence Function   |  [PDF](./presentations/InfluenceFunction-gon.pdf)     |
-| August 28, 2025 |  JuHui Jo  |  TinyGNN & FreeKD   |  [PDF](./presentations/TinyGNN_FreeKD.pdf)     |
+| August 28, 2025 |  Joohee Cho  |  TinyGNN & FreeKD   |  [PDF](./presentations/TinyGNN_FreeKD.pdf)     |
 
 ---
 
