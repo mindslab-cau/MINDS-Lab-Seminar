@@ -1,16 +1,35 @@
-# DMAIS-Lab-Seminar
+# MINDS-Lab-Seminar
 
 The main purpose of this seminar is to educate and inform its members of the recent advances of data mining and artificial intelligence.
 
 ### Regular meeting.
 
-**Time**: 16:00pm - 18:00pm every Tuesday, Thursday.
+**Time**: 18:00pm - 20:00pm every Thursday.
 
 **Room**: Room #529, Building #208
 
 If you would like to present in an upcoming meeting, please submit a pull request for registering or email *Hoonui LEE (이훈의)[lhnui01@gmail.com]*.
 
 Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation slides to this github repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to represent a week ahead of your presentation.
+
+### Schedule for Fall 2025
+
+|    Dates     |  Presenters   |        Topics         | Materials |
+| :----------: | :-----------: | :-------------------: | :-------: |
+| September 4, 2025 |  Sohoo Moon   |     |     |
+| September 11, 2025 |     |     |     |
+| September 18, 2025 |     |     |     |
+| September 25, 2025 |     |     |     |
+| October 2, 2025 |     |     |     |
+| October 30, 2025 |     |     |     |
+| November 6, 2025 |     |     |     |
+| November 13, 2025 |     |     |     |
+| November 20, 2025 |     |     |     |
+| November 27, 2025 |     |     |     |
+| December 4, 2025 |     |     |     |
+| December 11, 2025 |     |     |     |
+
+---
 
 ### Schedule for Summer 2025
 
