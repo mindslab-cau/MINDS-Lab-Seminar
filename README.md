@@ -16,7 +16,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
-| September 4, 2025 |  Sohoo Moon   | \t  Knowledge Graph Completion \t  |  [PDF](./presentations/Knowledge_graph_completion.pdf)   |
+| September 4, 2025 |  Sohoo Moon   |   Knowledge Graph Completion   |  [PDF](./presentations/Knowledge_graph_completion.pdf)   |
 | September 11, 2025 |     |     |     |
 | September 18, 2025 |     |     |     |
 | September 25, 2025 |     |     |     |
