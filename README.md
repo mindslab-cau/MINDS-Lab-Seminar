@@ -17,7 +17,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
 | September 4, 2025 |  Sohoo Moon   |   Knowledge Graph Completion   |  [PDF](./presentations/Knowledge_graph_completion_.pdf)   |
-| September 11, 2025 |  InHyeok Jeong   |  Hypergraph Contrastive Learning   | [PDF](./presentations/Hypergraph_Contrastive_Learning.pdf)   |
+| September 11, 2025 |  InHyeok Jeong   |  Hypergraph Contrastive Learning   | [PDF](./presentations/Hypergraph_Contrastive_Learning_.pdf)   |
 | September 18, 2025 |     |     |     |
 | September 25, 2025 |     |     |     |
 | October 2, 2025 |     |     |     |
