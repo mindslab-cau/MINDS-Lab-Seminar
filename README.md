@@ -16,15 +16,12 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
-| September 4, 2025 |  SoHoo Moon   |   Knowledge Graph Completion   |  [PDF](./presentations/Knowledge_graph_completion_.pdf)   |
+| September 4, 2025 |  SooHo Moon   |   Knowledge Graph Completion   |  [PDF](./presentations/Knowledge_graph_completion_.pdf)   |
 | September 11, 2025 |  InHyeok Jeong   |  Hypergraph Contrastive Learning   | [PDF](./presentations/Hypergraph_Contrastive_Learning_.pdf)   |
-| October 30, 2025 |  HoonUi Lee   |     |     |
-| November 6, 2025 |   SuYong Jeong  |     |     |
-| November 13, 2025 |   YeonGon Kim  |     |     |
-| November 20, 2025 |  Saejoon Park   |     |     |
-| November 27, 2025 |  Htet Arkar   |     |     |
-| December 4, 2025 |  SoHoo Moon   |     |     |
-| December 11, 2025 |  Junseo Yu   |     |     |
+| November 6, 2025 |  HoonUi Lee   |  News Recommendation  |     |
+| November 27, 2025 |   SuYong Jeong  |     |     |
+| December 4, 2025 |   YeonGon Kim  |     |     |
+| December 11, 2025 |  Saejoon Park   |     |     |
 
 ---
 
@@ -42,7 +39,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | July 29, 2025 - 1 |  Joohee Cho  |  GCN & VGAE & GraphSAGE   |  [PDF](./presentations/gcn_vgae_graphsage.pdf)    |
 | July 29, 2025 - 2 |  SaeJoon Park   |  GAT & GIN   |   [PDF](./presentations/Graph_Attention_Network_PSJ.pdf) [PDF](./presentations/Graph_Isomorphism_Network_PSJ.pdf)     |
 | July 31, 2025 |  HoonUi Lee   |  Recommendation System   |   [PDF](./presentations/Recsys.pdf)    |
-| August 5, 2025 |  Sohoo Moon   |  NeuMF & VAE for CF & LightGCN   |  [PDF](./presentations/NeuMF_VAEforCF_LightGCN.pdf)    |
+| August 5, 2025 |  SooHo Moon   |  NeuMF & VAE for CF & LightGCN   |  [PDF](./presentations/NeuMF_VAEforCF_LightGCN.pdf)    |
 | August 7, 2025 |  InHyeok Jeong    |  Hypergraph Motifs  |  [PDF](./presentations/Hypergraph_Motifs_JIH.pdf)      |
 | August 21, 2025 |  SuYong Jeong   |  TGN & TPG   |  [PDF](./presentations/TGN_TPG.pdf)      |
 | August 26, 2025 |  YeonGon Kim    |  Influence Function   |  [PDF](./presentations/InfluenceFunction-gon.pdf)     |
@@ -58,7 +55,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | March 20, 2025 |  SuYong Jeong    |  Deep Learning    |  [PDF](./presentations/Deeplearning_JeongSuYong.pdf)     |
 | March 27, 2025 |  YeonGon Kim   |  VICREG   |  [PDF](./presentations/VICReg-lab.pdf)     |
 | April 3, 2025 |  InHyeok Jeong   |  How to learn Hypergraphs     |  [PDF](./presentations/How%20to%20learn%20Hypergraphs_JIH.pdf)     |
-| April 10, 2025 |  Sohoo Moon    |  Exploring the Unknown : Negative Sampling for Knowledge Graph Completion    |  [PDF](./presentations/Negative.pdf)     |
+| April 10, 2025 |  SooHo Moon    |  Exploring the Unknown : Negative Sampling for Knowledge Graph Completion    |  [PDF](./presentations/Negative.pdf)     |
 | May 16, 2025 |  Htet Arkar   |  Fairness-aware Graph Learning (2)     |  [PDF](./presentations/FGL2-HAK.pdf)     |
 | May 29, 2025 |  YeonGon Kim   |   Graph Unlearning    |  [PDF](./presentations/GraphUnlearning-lab.pdf)     |
 
