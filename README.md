@@ -19,7 +19,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | September 4, 2025 |  SooHo Moon   |   Knowledge Graph Completion   |  [PDF](./presentations/Knowledge_graph_completion_.pdf)   |
 | September 11, 2025 |  InHyeok Jeong   |  Hypergraph Contrastive Learning   | [PDF](./presentations/Hypergraph_Contrastive_Learning_.pdf)   |
 | November 27, 2025 |  HoonUi Lee   |  News Recommendation  |  [PDF](./presentations/News_Recsys_LHU.pdf)   |
-| December 4, 2025 |   SuYong Jeong  |     |     |
+| December 4, 2025 |   SuYong Jeong  |   Dynamic Graph   | [PDF](./presentations/Dynamic_Graph.pdf)    |
 | December 11, 2025 |   YeonGon Kim  |     |     |
 
 ---
