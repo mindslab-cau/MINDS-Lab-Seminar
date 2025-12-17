@@ -4,13 +4,37 @@ The main purpose of this seminar is to educate and inform its members of the rec
 
 ### Regular meeting.
 
-**Time**: 18:00pm - 20:00pm every Thursday.
+**Time**: 14:00pm - 16:00pm every Tuesday and Thursday.
 
 **Room**: Room #529, Building #208
 
 If you would like to present in an upcoming meeting, please submit a pull request for registering or email *Hoonui LEE (이훈의)[lhnui01@gmail.com]*.
 
 Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation slides to this github repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to represent a week ahead of your presentation.
+
+
+### Schedule for Winter 2026
+
+|    Dates     |  Presenters   |        Topics         | Materials |
+| :----------: | :-----------: | :-------------------: | :-------: |
+| December 30, 2025 |   Saejoon Park  |      |        |
+| January 6, 2025 |   Htet Arkar   |     |      |
+| January 8, 2026 |   SooHo Moon   |       |       |
+| January 13, 2026 |   InHyeok Jeong   |        |       |
+| January 15, 2026 |   Joohee Cho   |        |       |
+| January 20, 2026 |   Gyuwon Lee   |        |       |
+| January 22, 2026 |   HoonUi Lee    |       |       |
+| January 27, 2026 |   SuYong Jeong    |       |       |
+| January 29, 2026 |   Saejoon Park    |       |       |
+| February 3, 2026 |   Htet Arkar    |       |       |
+| February 5, 2026 |   SooHo Moon    |       |       |
+| February 10, 2026 |   InHyeok Jeong    |       |       |
+| February 12, 2026 |   Joohee Cho    |       |       |
+| February 19, 2026 |   Gyuwon Lee    |       |       |
+| February 24, 2026 |   HoonUi Lee    |       |       |
+| February 26, 2026 |   SuYong Jeong    |       |       |
+
+---
 
 ### Schedule for Fall 2025
 
@@ -20,7 +44,6 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | September 11, 2025 |  InHyeok Jeong   |  Hypergraph Contrastive Learning   | [PDF](./presentations/Hypergraph_Contrastive_Learning_.pdf)   |
 | November 27, 2025 |  HoonUi Lee   |  News Recommendation  |  [PDF](./presentations/News_Recsys_LHU.pdf)   |
 | December 4, 2025 |   SuYong Jeong  |   Dynamic Graph   | [PDF](./presentations/Dynamic_Graph.pdf)    |
-| December 11, 2025 |   YeonGon Kim  |     |     |
 
 ---
 
