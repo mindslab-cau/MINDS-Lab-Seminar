@@ -17,22 +17,22 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
-| December 30, 2025 |   Saejoon Park  |      |        |
-| January 6, 2025 |   Htet Arkar   |     |      |
-| January 8, 2026 |   SooHo Moon   |       |       |
-| January 13, 2026 |   InHyeok Jeong   |        |       |
-| January 15, 2026 |   Joohee Cho   |        |       |
-| January 20, 2026 |   Gyuwon Lee   |        |       |
-| January 22, 2026 |   HoonUi Lee    |       |       |
-| January 27, 2026 |   SuYong Jeong    |       |       |
-| January 29, 2026 |   Saejoon Park    |       |       |
-| February 3, 2026 |   Htet Arkar    |       |       |
-| February 5, 2026 |   SooHo Moon    |       |       |
-| February 10, 2026 |   InHyeok Jeong    |       |       |
-| February 12, 2026 |   Joohee Cho    |       |       |
-| February 19, 2026 |   Gyuwon Lee    |       |       |
-| February 24, 2026 |   HoonUi Lee    |       |       |
-| February 26, 2026 |   SuYong Jeong    |       |       |
+| December 30, 2025 |     |      |        |
+| January 6, 2025 |   Saejoon Park   |     |      |
+| January 8, 2026 |   Htet Arkar   |       |       |
+| January 13, 2026 |   SooHo Moon   |        |       |
+| January 15, 2026 |   InHyeok Jeong   |        |       |
+| January 20, 2026 |   Joohee Cho   |        |       |
+| January 22, 2026 |   Gyuwon Lee    |       |       |
+| January 27, 2026 |   HoonUi Lee   |       |       |
+| January 29, 2026 |   SuYong Jeong    |       |       |
+| February 3, 2026 |   Saejoon Park    |       |       |
+| February 5, 2026 |   Htet Arkar    |       |       |
+| February 10, 2026 |   SooHo Moon    |       |       |
+| February 12, 2026 |   InHyeok Jeong    |       |       |
+| February 19, 2026 |   Joohee Cho    |       |       |
+| February 24, 2026 |   Gyuwon Lee    |       |       |
+| February 26, 2026 |   HoonUi Lee    |       |       |
 
 ---
 
