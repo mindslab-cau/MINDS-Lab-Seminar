@@ -18,8 +18,8 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
 | December 30, 2025 |     |      |        |
-| January 6, 2025 |   Saejoon Park   |     |      |
-| January 8, 2026 |   Htet Arkar   |       |       |
+| January 6, 2025 |   Saejoon Park   |  GNN Acceleration: Full graph based learning   |      |
+| January 8, 2026 |   Htet Arkar   |  Beyond Utility: The Critical Role of Fairness in AI Models!     |       |
 | January 13, 2026 |   SooHo Moon   |        |       |
 | January 15, 2026 |   InHyeok Jeong   |        |       |
 | January 20, 2026 |   Joohee Cho   |        |       |
