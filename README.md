@@ -20,7 +20,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | December 30, 2025 |     |      |        |
 | January 6, 2025 |   Saejoon Park   |  GNN Acceleration: Full graph based learning   |   [PDF](./presentations/PSJ_GNN_Acceleration_full_graph.pdf)    |
 | January 8, 2026 |   Htet Arkar   |  Beyond Utility: The Critical Role of Fairness in AI Models!     |  [PDF](./presentations/FairnessInAI_HAK.pdf)     |
-| January 13, 2026 |   SooHo Moon   |        |       |
+| January 13, 2026 |   SooHo Moon   |   Generalized Rank-based Evaluation for Knowledge Graph Completion. Challenges, Framework, and Analyses     |   [PDF](./presentations/20260103_MSH.pdf)    |
 | January 15, 2026 |   InHyeok Jeong   |        |       |
 | January 20, 2026 |   Joohee Cho   |        |       |
 | January 22, 2026 |   HoonUi Lee    |       |       |
