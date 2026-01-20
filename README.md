@@ -22,7 +22,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | January 8, 2026 |   Htet Arkar   |  Beyond Utility: The Critical Role of Fairness in AI Models!     |  [PDF](./presentations/FairnessInAI_HAK.pdf)     |
 | January 13, 2026 |   SooHo Moon   |   Generalized Rank-based Evaluation for Knowledge Graph Completion. Challenges, Framework, and Analyses     |   [PDF](./presentations/20260113_MSH.pdf)    |
 | January 15, 2026 |   InHyeok Jeong   |   Hypergraph Modeling Higher-Order Interactions in the Real-World     |  [PDF](./presentations/20260115_JIH.pdf)      |
-| January 20, 2026 |   Joohee Cho   |        |       |
+| January 20, 2026 |   Joohee Cho   |  Hypergraph Distillation      |    [PDF](./presentations/20260120_JHC.pdf)    |
 | January 22, 2026 |   HoonUi Lee    |       |       |
 | January 27, 2026 |   SuYong Jeong   |       |       |
 | January 29, 2026 |   Saejoon Park    |       |       |
