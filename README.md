@@ -23,7 +23,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | January 13, 2026 |   SooHo Moon   |   Generalized Rank-based Evaluation for Knowledge Graph Completion. Challenges, Framework, and Analyses     |   [PDF](./presentations/20260113_MSH.pdf)    |
 | January 15, 2026 |   InHyeok Jeong   |   Hypergraph Modeling Higher-Order Interactions in the Real-World     |  [PDF](./presentations/20260115_JIH.pdf)      |
 | January 20, 2026 |   Joohee Cho   |  Hypergraph Distillation      |    [PDF](./presentations/20260120_JHC.pdf)    |
-| January 22, 2026 |   HoonUi Lee    |       |       |
+| January 22, 2026 |   HoonUi Lee    |   Continual Learning on Recommendation System     |   [PDF](./presentations/20260122_LHU.pdf)    |
 | January 27, 2026 |   SuYong Jeong   |       |       |
 | January 29, 2026 |   Saejoon Park    |       |       |
 | February 3, 2026 |   Htet Arkar    |       |       |
