@@ -26,13 +26,15 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | January 22, 2026 |   HoonUi Lee    |   Continual Learning on Recommendation System     |   [PDF](./presentations/20260122_LHU.pdf)    |
 | January 27, 2026 |   SuYong Jeong   |   Dynamic Graphs; CAWs, DyGFormer     |  [PDF](./presentations/20260127_JSY.pdf)     |
 | January 29, 2026 |   Saejoon Park    |       |       |
-| February 3, 2026 |   Htet Arkar    |       |       |
-| February 5, 2026 |   SooHo Moon    |       |       |
-| February 10, 2026 |   InHyeok Jeong    |       |       |
-| February 12, 2026 |   Joohee Cho    |       |       |
-| February 19, 2026 |   Gyuwon Lee    |       |       |
-| February 24, 2026 |   HoonUi Lee    |       |       |
-| February 26, 2026 |       |       |       |
+| February 3, 2026 - 1|       |       |       |
+| February 3, 2026 - 2 |       |       |       |
+| February 5, 2026 - 1|       |       |       |
+| February 5, 2026 - 2|       |       |       |
+| February 10, 2026 |   Htet Arkar    |       |       |
+| February 12, 2026 |   SooHo Moon    |       |       |
+| February 19, 2026 |   InHyeok Jeong    |       |       |
+| February 24, 2026 |   Joohee Cho    |       |       |
+| February 26, 2026 |   Gyuwon Lee    |       |       |
 
 ---
 
