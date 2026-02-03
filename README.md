@@ -24,12 +24,12 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | January 20, 2026 |   Joohee Cho   |  Hypergraph Distillation      |    [PDF](./presentations/20260120_JHC.pdf)    |
 | January 22, 2026 |   HoonUi Lee    |   Continual Learning on Recommendation System     |   [PDF](./presentations/20260122_LHU.pdf)    |
 | January 27, 2026 |   SuYong Jeong   |   Dynamic Graphs; CAWs, DyGFormer     |  [PDF](./presentations/20260127_JSY.pdf)     |
-| February 3, 2026 - 1|       |   Node2vec     |       |
-| February 3, 2026 - 2 |       |   DeepWalk    |       |
-| February 5, 2026 - 1|       |   Batch Normalization    |       |
-| February 5, 2026 - 2|       |   Layer Normalization    |       |
-| February 10, 2026 |   Saejoon Park    |       |       |
-| February 12, 2026 |   Htet Arkar    |       |       |
+| February 3, 2026 - 1|   SeungJong Lee    |   Node2vec     |  [PDF](./presentations/20260203_LSY.pdf)     |
+| February 3, 2026 - 2 |  DaYeon Choi     |   DeepWalk    |   [PDF](./presentations/20260203_CDY.pdf)    |
+| February 5, 2026 |   Htet Arkar    |       |       |
+| February 10, 2026 - 1|       |   Batch Normalization    |       |
+| February 10, 2026 - 2|       |   Layer Normalization    |       |
+| February 12, 2026 |   Saejoon Park    |       |       |
 | February 19, 2026 |   SooHo Moon    |       |       |
 | February 24, 2026 |   InHyeok Jeong    |       |       |
 | February 26, 2026 |   Joohee Cho    |       |       |
