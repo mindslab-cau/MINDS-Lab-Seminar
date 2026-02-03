@@ -29,7 +29,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | February 5, 2026 |   Htet Arkar    |       |       |
 | February 10, 2026 - 1|       |   Batch Normalization    |       |
 | February 10, 2026 - 2|       |   Layer Normalization    |       |
-| February 12, 2026 |   Saejoon Park    |       |       |
+| February 12, 2026 |       |       |       |
 | February 19, 2026 |   SooHo Moon    |       |       |
 | February 24, 2026 |   InHyeok Jeong    |       |       |
 | February 26, 2026 |   Joohee Cho    |       |       |
