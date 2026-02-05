@@ -26,10 +26,10 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | January 27, 2026 |   SuYong Jeong   |   Dynamic Graphs; CAWs, DyGFormer     |  [PDF](./presentations/20260127_JSY.pdf)     |
 | February 3, 2026 - 1 |  DaYune Choi     |   DeepWalk    |   [PDF](./presentations/20260203_CDY.pdf)    |
 | February 3, 2026 - 2|   SeungJong Lee    |   Node2vec     |  [PDF](./presentations/20260203_LSJ.pdf)     |
-| February 5, 2026 |   Htet Arkar    |       |       |
+| February 5, 2026 |   Htet Arkar    |   Random Walk Approaches for Fair Node Embeddings    |    [PDF](./presentations/20260205_HAK.pdf)   |
 | February 10, 2026 - 1|       |   Batch Normalization    |       |
 | February 10, 2026 - 2|       |   Layer Normalization    |       |
-| February 12, 2026 |   Saejoon Park    |       |       |
+| February 12, 2026 |       |       |       |
 | February 19, 2026 |   SooHo Moon    |       |       |
 | February 24, 2026 |   InHyeok Jeong    |       |       |
 | February 26, 2026 |   Joohee Cho    |       |       |
