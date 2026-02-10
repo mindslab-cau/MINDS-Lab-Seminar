@@ -27,8 +27,8 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | February 3, 2026 - 1 |  DaYune Choi     |   DeepWalk    |   [PDF](./presentations/20260203_CDY.pdf)    |
 | February 3, 2026 - 2|   SeungJong Lee    |   Node2vec     |  [PDF](./presentations/20260203_LSJ.pdf)     |
 | February 5, 2026 |   Htet Arkar    |   Random Walk Approaches for Fair Node Embeddings    |    [PDF](./presentations/20260205_HAK.pdf)   |
-| February 10, 2026 - 1|       |   Batch Normalization    |       |
-| February 10, 2026 - 2|       |   Layer Normalization    |       |
+| February 10, 2026 - 1|  ChanWoo Kim     |   Batch Normalization    |   [PDF](./presentations/20260210_KCW.pdf)    |
+| February 10, 2026 - 2|  Eunjae Son    |   Layer Normalization    |  [PDF](./presentations/20260210_SEJ.pdf)     |
 | February 12, 2026 |       |       |       |
 | February 19, 2026 |   SooHo Moon    |       |       |
 | February 24, 2026 |   InHyeok Jeong    |       |       |
