@@ -4,7 +4,7 @@ The main purpose of this seminar is to educate and inform its members of the rec
 
 ### Regular meeting.
 
-**Time**: 14:00pm - 16:00pm every Tuesday and Thursday.
+**Time**: 18:00pm - 20:00pm every Tuesday.
 
 **Room**: Room #529, Building #208
 
@@ -12,6 +12,22 @@ If you would like to present in an upcoming meeting, please submit a pull reques
 
 Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation slides to this github repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to represent a week ahead of your presentation.
 
+### Schedule for Spring 2026
+
+|    Dates     |  Presenters   |        Topics         | Materials |
+| :----------: | :-----------: | :-------------------: | :-------: |
+| March 10, 2025 |   Gyuwon Lee   |    |    |
+| March 17, 2025 |   Joohee Cho   |    |    |
+| March 24, 2025 |   Saejoon Park   |    |    |
+| March 31, 2025 |   HoonUi Lee   |    |    |
+| April 7, 2025 |   SuYong Jeong   |    |    |
+| April 28, 2025 |   Htet Arkar   |    |    |
+| May 12, 2025 |   SeungJong Lee   |    |    |
+| May 19, 2025 |   Eunjae Son  |    |    |
+| May 26, 2025 |   SooHo Moon   |    |    |
+| June 2, 2025 |   Gyuwon Lee    |    |    |
+
+---
 
 ### Schedule for Winter 2026
 
@@ -30,8 +46,6 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | February 10, 2026 - 1|  ChanWoo Kim     |   Batch Normalization    |   [PDF](./presentations/20260210_KCW.pdf)    |
 | February 10, 2026 - 2|  Eunjae Son    |   Layer Normalization    |  [PDF](./presentations/20260210_SEJ.pdf)     |
 | February 19, 2026 |   SooHo Moon    |   GraphRAG     |   [PDF](./presentations/20260219_MSH.pdf)    |
-| February 24, 2026 |   InHyeok Jeong    |       |       |
-| February 26, 2026 |   Joohee Cho    |       |       |
 
 ---
 
