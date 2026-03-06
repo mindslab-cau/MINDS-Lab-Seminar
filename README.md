@@ -16,16 +16,16 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
-| March 10, 2025 |   Gyuwon Lee   |    |    |
-| March 17, 2025 |   Joohee Cho   |    |    |
-| March 24, 2025 |   Saejoon Park   |    |    |
-| March 31, 2025 |   HoonUi Lee   |    |    |
-| April 7, 2025 |   SuYong Jeong   |    |    |
-| April 28, 2025 |   Htet Arkar   |    |    |
-| May 12, 2025 |   SeungJong Lee   |    |    |
-| May 19, 2025 |   Eunjae Son  |    |    |
-| May 26, 2025 |   SooHo Moon   |    |    |
-| June 2, 2025 |   Gyuwon Lee    |    |    |
+| March 10, 2026 |   Gyuwon Lee   |    |    |
+| March 17, 2026 |   Joohee Cho   |    |    |
+| March 24, 2026 |   Saejoon Park   |    |    |
+| March 31, 2026 |   HoonUi Lee   |    |    |
+| April 7, 2026 |   SuYong Jeong   |    |    |
+| April 28, 2026 |   Htet Arkar   |    |    |
+| May 12, 2026 |   SeungJong Lee   |    |    |
+| May 19, 2026 |   Eunjae Son  |    |    |
+| May 26, 2026 |   SooHo Moon   |    |    |
+| June 2, 2026 |   Gyuwon Lee    |    |    |
 
 ---
 
@@ -33,7 +33,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
-| January 6, 2025 |   Saejoon Park   |  GNN Acceleration: Full graph based learning   |   [PDF](./presentations/PSJ_GNN_Acceleration_full_graph.pdf)    |
+| January 6, 2026 |   Saejoon Park   |  GNN Acceleration: Full graph based learning   |   [PDF](./presentations/PSJ_GNN_Acceleration_full_graph.pdf)    |
 | January 8, 2026 |   Htet Arkar   |  Beyond Utility: The Critical Role of Fairness in AI Models!     |  [PDF](./presentations/FairnessInAI_HAK.pdf)     |
 | January 13, 2026 |   SooHo Moon   |   Generalized Rank-based Evaluation for Knowledge Graph Completion. Challenges, Framework, and Analyses     |   [PDF](./presentations/20260113_MSH.pdf)    |
 | January 15, 2026 |   InHyeok Jeong   |   Hypergraph Modeling Higher-Order Interactions in the Real-World     |  [PDF](./presentations/20260115_JIH.pdf)      |
