@@ -17,15 +17,14 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
 | March 10, 2026 |   Gyuwon Lee   |  Multivariate Time Series Anomaly Detection and GAVEL  |  [PDF](./presentations/20260310_LGW.pdf)   |
-| March 17, 2026 |   Joohee Cho   |    |    |
-| March 24, 2026 |   Saejoon Park   |    |    |
-| March 31, 2026 |   HoonUi Lee   |    |    |
-| April 7, 2026 |   SuYong Jeong   |    |    |
-| April 28, 2026 |   Htet Arkar   |    |    |
-| May 12, 2026 |   SeungJong Lee   |    |    |
-| May 19, 2026 |   Eunjae Son  |    |    |
-| May 26, 2026 |   SooHo Moon   |    |    |
-| June 2, 2026 |   Gyuwon Lee    |    |    |
+| March 24, 2026 |   Joohee Cho   |    |    |
+| March 31, 2026 |   Saejoon Park   |    |    |
+| April 7, 2026 |   HoonUi Lee   |    |    |
+| April 28, 2026 |   SuYong Jeong   |    |    |
+| May 12, 2026 |   Htet Arkar   |    |    |
+| May 19, 2026 |   SeungJong Lee   |    |    |
+| May 26, 2026 |   Eunjae Son  |    |    |
+| June 2, 2026 |   SooHo Moon   |    |    |
 
 ---
 
