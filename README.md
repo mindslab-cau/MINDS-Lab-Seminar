@@ -17,7 +17,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
 | March 10, 2026 |   Gyuwon Lee   |  Multivariate Time Series Anomaly Detection and GAVEL  |  [PDF](./presentations/20260310_LGW.pdf)   |
-| March 24, 2026 |   Joohee Cho   |  Light Hypergraph Models  |  PDF](./presentations/20260324_JHC.pdf)  |
+| March 24, 2026 |   Joohee Cho   |  Light Hypergraph Models  |  [PDF](./presentations/20260324_JHC.pdf)  |
 | March 31, 2026 |   Saejoon Park   |    |    |
 | April 7, 2026 |   HoonUi Lee   |    |    |
 | April 28, 2026 |   SuYong Jeong   |    |    |
