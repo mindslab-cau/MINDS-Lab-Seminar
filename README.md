@@ -21,9 +21,9 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | April 7, 2026 |    SeungJong Lee   |    |    |
 | April 28, 2026 |   SuYong Jeong   |    |    |
 | May 12, 2026 |   HoonUi Lee    |    |    |
-| May 19, 2026 |   Htet Arkar   |    |    |
-| May 26, 2026 |   Saejoon Park   |    |    |
-| June 2, 2026 |   Eunjae Son   |    |    |
+| May 19, 2026 |   Saejoon Park   |    |    |
+| May 26, 2026 |   Eunjae Son   |    |    |
+| June 2, 2026 |   SooHo Moon   |    |    |
 
 ---
 
