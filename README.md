@@ -19,11 +19,10 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | March 10, 2026 |   Gyuwon Lee   |  Multivariate Time Series Anomaly Detection and GAVEL  |  [PDF](./presentations/20260310_LGW.pdf)   |
 | March 24, 2026 |   Joohee Cho   |  Light Hypergraph Models  |  [PDF](./presentations/20260324_JHC.pdf)  |
 | April 7, 2026 |    SeungJong Lee   |  Better Scheduling for SSD-enabled GNN Training  |  [PDF](./presentations/260407_LSJ.pdf)   |
-| April 28, 2026 |   SuYong Jeong   |    |    |
-| May 12, 2026 |   HoonUi Lee    |    |    |
-| May 19, 2026 |   Saejoon Park   |    |    |
-| May 26, 2026 |   Eunjae Son   |    |    |
-| June 2, 2026 |   SooHo Moon   |    |    |
+| May 12, 2026 |   SuYong Jeong   |  Temporal Hypergraph Learning  | [PDF](./presentations/20260512_JSY.pdf)   |
+| May 19, 2026 |   HoonUi Lee   |    |    |
+| May 26, 2026 |   Saejoon Park   |    |    |
+| June 2, 2026 |   Eunjae Son   |    |    |
 
 ---
 
