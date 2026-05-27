@@ -21,8 +21,6 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | April 7, 2026 |    SeungJong Lee   |  Better Scheduling for SSD-enabled GNN Training  |  [PDF](./presentations/260407_LSJ.pdf)   |
 | May 12, 2026 |   SuYong Jeong   |  Temporal Hypergraph Learning  | [PDF](./presentations/20260512_JSY.pdf)   |
 | May 19, 2026 |   HoonUi Lee   |  News Recommendation Utilizting Diverse News Characteristics  | [PDF](./presentations/20260519_LHU.pdf)   |
-| May 26, 2026 |   Eunjae Son   |    |    |
-| June 2, 2026 |   SooHo Moon   |    |    |
 
 ---
 
