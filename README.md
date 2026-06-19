@@ -17,10 +17,10 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
 | June , 2026 |   Eunjae Son   |    |     |
-| July , 2026 |   Sooho Moon   |    |     |
 | July , 2026 |   Saejoon Park   |    |     |
 | July , 2026 |   YeonGon Kim   |    |     |
 | July , 2026 |   InHyeok Jeong   |    |     |
+| July , 2026 |   Sooho Moon   |    |     |
 | July , 2026 |   Gyuwon Lee   |    |     |
 | July , 2026 |   Joohee Cho   |    |     |
 | July , 2026 |   Hoonui Lee   |    |     |
