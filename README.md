@@ -12,6 +12,23 @@ If you would like to present in an upcoming meeting, please submit a pull reques
 
 Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation slides to this github repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to represent a week ahead of your presentation.
 
+### Schedule for Summer 2026
+
+|    Dates     |  Presenters   |        Topics         | Materials |
+| :----------: | :-----------: | :-------------------: | :-------: |
+| June , 2026 |   Eunjae Son   |    |     |
+| July , 2026 |   Sooho Moon   |    |     |
+| July , 2026 |   Saejoon Park   |    |     |
+| July , 2026 |   YeonGon Kim   |    |     |
+| July , 2026 |   InHyeok Jeong   |    |     |
+| July , 2026 |   Gyuwon Lee   |    |     |
+| July , 2026 |   Joohee Cho   |    |     |
+| July , 2026 |   Hoonui Lee   |    |     |
+| July , 2026 |   SuYong Jeong   |    |     |
+| July , 2026 |   SeungJong Lee   |    |     |
+
+---
+
 ### Schedule for Spring 2026
 
 |    Dates     |  Presenters   |        Topics         | Materials |
@@ -33,7 +50,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | January 13, 2026 |   SooHo Moon   |   Generalized Rank-based Evaluation for Knowledge Graph Completion. Challenges, Framework, and Analyses     |   [PDF](./presentations/20260113_MSH.pdf)    |
 | January 15, 2026 |   InHyeok Jeong   |   Hypergraph Modeling Higher-Order Interactions in the Real-World     |  [PDF](./presentations/20260115_JIH.pdf)      |
 | January 20, 2026 |   Joohee Cho   |  Hypergraph Distillation      |    [PDF](./presentations/20260120_JHC.pdf)    |
-| January 22, 2026 |   HoonUi Lee    |   Continual Learning on Recommendation System     |   [PDF](./presentations/20260122_LHU.pdf)    |
+| January 22, 2026 |   Hoonui Lee    |   Continual Learning on Recommendation System     |   [PDF](./presentations/20260122_LHU.pdf)    |
 | January 27, 2026 |   SuYong Jeong   |   Dynamic Graphs; CAWs, DyGFormer     |  [PDF](./presentations/20260127_JSY.pdf)     |
 | February 3, 2026 - 1 |  DaYune Choi     |   DeepWalk    |   [PDF](./presentations/20260203_CDY.pdf)    |
 | February 3, 2026 - 2|   SeungJong Lee    |   Node2vec     |  [PDF](./presentations/20260203_LSJ.pdf)     |
