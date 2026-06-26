@@ -16,16 +16,18 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
-| June , 2026 |   Eunjae Son   |    |     |
-| July , 2026 |   Saejoon Park   |    |     |
-| July , 2026 |   YeonGon Kim   |    |     |
-| July , 2026 |   InHyeok Jeong   |    |     |
-| July , 2026 |   Sooho Moon   |    |     |
-| July , 2026 |   Gyuwon Lee   |    |     |
-| July , 2026 |   Joohee Cho   |    |     |
-| July , 2026 |   Hoonui Lee   |    |     |
-| July , 2026 |   SuYong Jeong   |    |     |
-| July , 2026 |   SeungJong Lee   |    |     |
+| June 30, 2026 |  YunYong Ko    |    |     |
+| June 30, 2026 |  YeonGon Kim    |    |     |
+| July 7, 2026 |   EunJae Son   |    |     |
+| July 7, 2026 |   InHyeok Jeong   |    |     |
+| July 14, 2026 |   SooHo Moon   |    |     |
+| July 14, 2026 |   GyuWon Lee   |    |     |
+| July 21, 2026 |   JooHee Cho   |    |     |
+| July 21, 2026 |   HoonUi Lee   |    |     |
+| July 28, 2026 |   SuYong Jeong   |    |     |
+| July 28, 2026 |   SeungJong Lee   |    |     |
+| August 4, 2026 |   SaeJoon Park   |    |     |
+| August 4, 2026 |   YeonGon Kim   |    |     |
 
 ---
 
@@ -33,8 +35,8 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
-| March 10, 2026 |   Gyuwon Lee   |  Multivariate Time Series Anomaly Detection and GAVEL  |  [PDF](./presentations/20260310_LGW.pdf)   |
-| March 24, 2026 |   Joohee Cho   |  Light Hypergraph Models  |  [PDF](./presentations/20260324_JHC.pdf)  |
+| March 10, 2026 |   GyuWon Lee   |  Multivariate Time Series Anomaly Detection and GAVEL  |  [PDF](./presentations/20260310_LGW.pdf)   |
+| March 24, 2026 |   JooHee Cho   |  Light Hypergraph Models  |  [PDF](./presentations/20260324_JHC.pdf)  |
 | April 7, 2026 |    SeungJong Lee   |  Better Scheduling for SSD-enabled GNN Training  |  [PDF](./presentations/260407_LSJ.pdf)   |
 | May 12, 2026 |   SuYong Jeong   |  Temporal Hypergraph Learning  | [PDF](./presentations/20260512_JSY.pdf)   |
 | May 19, 2026 |   HoonUi Lee   |  News Recommendation Utilizting Diverse News Characteristics  | [PDF](./presentations/20260519_LHU.pdf)   |
@@ -45,18 +47,18 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
-| January 6, 2026 |   Saejoon Park   |  GNN Acceleration: Full graph based learning   |   [PDF](./presentations/PSJ_GNN_Acceleration_full_graph.pdf)    |
+| January 6, 2026 |   SaeJoon Park   |  GNN Acceleration: Full graph based learning   |   [PDF](./presentations/PSJ_GNN_Acceleration_full_graph.pdf)    |
 | January 8, 2026 |   Htet Arkar   |  Beyond Utility: The Critical Role of Fairness in AI Models!     |  [PDF](./presentations/FairnessInAI_HAK.pdf)     |
 | January 13, 2026 |   SooHo Moon   |   Generalized Rank-based Evaluation for Knowledge Graph Completion. Challenges, Framework, and Analyses     |   [PDF](./presentations/20260113_MSH.pdf)    |
 | January 15, 2026 |   InHyeok Jeong   |   Hypergraph Modeling Higher-Order Interactions in the Real-World     |  [PDF](./presentations/20260115_JIH.pdf)      |
-| January 20, 2026 |   Joohee Cho   |  Hypergraph Distillation      |    [PDF](./presentations/20260120_JHC.pdf)    |
-| January 22, 2026 |   Hoonui Lee    |   Continual Learning on Recommendation System     |   [PDF](./presentations/20260122_LHU.pdf)    |
+| January 20, 2026 |   JooHee Cho   |  Hypergraph Distillation      |    [PDF](./presentations/20260120_JHC.pdf)    |
+| January 22, 2026 |   HoonUi Lee    |   Continual Learning on Recommendation System     |   [PDF](./presentations/20260122_LHU.pdf)    |
 | January 27, 2026 |   SuYong Jeong   |   Dynamic Graphs; CAWs, DyGFormer     |  [PDF](./presentations/20260127_JSY.pdf)     |
 | February 3, 2026 - 1 |  DaYune Choi     |   DeepWalk    |   [PDF](./presentations/20260203_CDY.pdf)    |
 | February 3, 2026 - 2|   SeungJong Lee    |   Node2vec     |  [PDF](./presentations/20260203_LSJ.pdf)     |
 | February 5, 2026 |   Htet Arkar    |   Random Walk Approaches for Fair Node Embeddings    |    [PDF](./presentations/20260205_HAK.pdf)   |
 | February 10, 2026 - 1|  ChanWoo Kim     |   Batch Normalization    |   [PDF](./presentations/20260210_KCW.pdf)    |
-| February 10, 2026 - 2|  Eunjae Son    |   Layer Normalization    |  [PDF](./presentations/20260210_SEJ.pdf)     |
+| February 10, 2026 - 2|  EunJae Son    |   Layer Normalization    |  [PDF](./presentations/20260210_SEJ.pdf)     |
 | February 19, 2026 |   SooHo Moon    |   GraphRAG     |   [PDF](./presentations/20260219_MSH.pdf)    |
 
 ---
@@ -83,14 +85,14 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | July 17, 2025 - 2 |  Htet Arkar   |  Random Walk Approaches to Node Embeddings   |  [PDF](./presentations/RandomWalk_HAK.pdf)     |
 | July 24, 2025 - 1 |  YeonGon Kim    |  Deep Learning & BN & LN   |  [PDF](./presentations/DeepLearning-lab.pdf) [PDF](./presentations/BatchNorm-gon.pdf) [PDF](./presentations/LayerNorm-lab.pdf)   |
 | July 24, 2025 - 2|  Gyuwon Lee    |  VAE & GAN & DDPM   |  [PDF](./presentations/Auto_Encoding_Variational_Bayes.pdf) [PDF](./presentations/Generative_Adversarial_Nets.pdf) [PDF](./presentations/Denoising_Diffusion_Probabilistic_Models.pdf)   |
-| July 29, 2025 - 1 |  Joohee Cho  |  GCN & VGAE & GraphSAGE   |  [PDF](./presentations/gcn_vgae_graphsage.pdf)    |
+| July 29, 2025 - 1 |  JooHee Cho  |  GCN & VGAE & GraphSAGE   |  [PDF](./presentations/gcn_vgae_graphsage.pdf)    |
 | July 29, 2025 - 2 |  SaeJoon Park   |  GAT & GIN   |   [PDF](./presentations/Graph_Attention_Network_PSJ.pdf) [PDF](./presentations/Graph_Isomorphism_Network_PSJ.pdf)     |
 | July 31, 2025 |  HoonUi Lee   |  Recommendation System   |   [PDF](./presentations/Recsys.pdf)    |
 | August 5, 2025 |  SooHo Moon   |  NeuMF & VAE for CF & LightGCN   |  [PDF](./presentations/NeuMF_VAEforCF_LightGCN.pdf)    |
 | August 7, 2025 |  InHyeok Jeong    |  Hypergraph Motifs  |  [PDF](./presentations/Hypergraph_Motifs_JIH.pdf)      |
 | August 21, 2025 |  SuYong Jeong   |  TGN & TPG   |  [PDF](./presentations/TGN_TPG.pdf)      |
 | August 26, 2025 |  YeonGon Kim    |  Influence Function   |  [PDF](./presentations/InfluenceFunction-gon.pdf)     |
-| August 28, 2025 |  Joohee Cho  |  TinyGNN & FreeKD   |  [PDF](./presentations/TinyGNN_FreeKD.pdf)     |
+| August 28, 2025 |  JooHee Cho  |  TinyGNN & FreeKD   |  [PDF](./presentations/TinyGNN_FreeKD.pdf)     |
 
 ---
 
@@ -114,17 +116,17 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | :----------: | :-----------: | :-------------------: | :-------: |
 | January 16, 2025 |   Htet Arkar   |   Large Language Models for Graph   |   [PDF](./presentations/LLMsForGraphs-HAK-Updated.pdf)     |
 | January 21, 2025 |   Htet Arkar   |   Graph Reasoning Enhanced Language Models for Question Answering (GreaseLM)   |   [PDF](./presentations/GreaseLM-HAK-updated.pdf)    |
-| January 23, 2025 - 1|  Junseo Yu    |  GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning     |  [PDF](./presentations/GNNRAG_LabMeeting_YJS_250123.pdf)      |
-| January 23, 2025 - 2|  Hoonui Lee    |  SimKGC: Simple Contrastive Knowledge Graph Completion with Pre-trained Language Models     |   [PDF](./presentations/SimKGC_lhn.pdf)     |
+| January 23, 2025 - 1|  JunSeo Yu    |  GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning     |  [PDF](./presentations/GNNRAG_LabMeeting_YJS_250123.pdf)      |
+| January 23, 2025 - 2|  HoonUi Lee    |  SimKGC: Simple Contrastive Knowledge Graph Completion with Pre-trained Language Models     |   [PDF](./presentations/SimKGC_lhn.pdf)     |
 | February 6, 2025 - 1|  InHyeok Jeong    |   Batch/Layer Normalization     |  [PDF](./presentations/Batch&Layer_Normalization_JIH.pdf)     |
-| February 6, 2025 - 2|  Saejoon Park    |   Generative Adversarial Nets     |  [PDF](./presentations/GAN_PSJ_0206.pdf)     |
-| February 11, 2025 - 1|  Hoonui Lee    |  KG-BERT: BERT for Knowledge Graph Completion     |   [PDF](./presentations/KG-BERT_lhn.pdf)     |
-| February 11, 2025 - 2|  Hoonui Lee    |  Do Pre-trained Models Benefit Knowledge Graph Completion? A Reliable Evaluation and a Reasonable Approach     |  [PDF](./presentations/PKGC_lhn.pdf)      |
-| February 13, 2025 |  Sooho Moon    |  Searching for Better Knowledge Graph Completion Evaluation Metrics : Recent Discoveries  |  [PDF](./presentations/Evaluation_Metrics_Recent_Discoveries.pdf)      |
-| February 18, 2025 - 1|  Gyuwon Lee    |  Multivariate Time Series Anomaly Detection and Interpretation using Hierarchical Inter-Metric and Temporal Embedding     |   [PDF](./presentations/Interfusion_v4.pdf)    |
-| February 18, 2025 - 2|  Saejoon Park   |  MADGAN  |  [PDF](./presentations/MAD-GAN.pdf)      |
-| February 20, 2025 - 1|  Hoonui Lee  |  Knowledge Hypergraphs: Prediction Beyond Binary Relations  |  [PDF](./presentations/HSimplE\&HypE.pdf)     |
-| February 20, 2025 - 2|  Junseo Yu  |  GraphRAG & QFS      |  [PDF](./presentations/GraphRAG_and_QFS.pdf)      |
+| February 6, 2025 - 2|  SaeJoon Park    |   Generative Adversarial Nets     |  [PDF](./presentations/GAN_PSJ_0206.pdf)     |
+| February 11, 2025 - 1|  HoonUi Lee    |  KG-BERT: BERT for Knowledge Graph Completion     |   [PDF](./presentations/KG-BERT_lhn.pdf)     |
+| February 11, 2025 - 2|  HoonUi Lee    |  Do Pre-trained Models Benefit Knowledge Graph Completion? A Reliable Evaluation and a Reasonable Approach     |  [PDF](./presentations/PKGC_lhn.pdf)      |
+| February 13, 2025 |  SooHo Moon    |  Searching for Better Knowledge Graph Completion Evaluation Metrics : Recent Discoveries  |  [PDF](./presentations/Evaluation_Metrics_Recent_Discoveries.pdf)      |
+| February 18, 2025 - 1|  GyuWon Lee    |  Multivariate Time Series Anomaly Detection and Interpretation using Hierarchical Inter-Metric and Temporal Embedding     |   [PDF](./presentations/Interfusion_v4.pdf)    |
+| February 18, 2025 - 2|  SaeJoon Park   |  MADGAN  |  [PDF](./presentations/MAD-GAN.pdf)      |
+| February 20, 2025 - 1|  HoonUi Lee  |  Knowledge Hypergraphs: Prediction Beyond Binary Relations  |  [PDF](./presentations/HSimplE\&HypE.pdf)     |
+| February 20, 2025 - 2|  JunSeo Yu  |  GraphRAG & QFS      |  [PDF](./presentations/GraphRAG_and_QFS.pdf)      |
 | February 25, 2025 |  InHyeok Jeong  |  GCN & LightGCN    |   [PDF](./presentations/GCN_LightGCN_JIH.pdf)     |
 | February 27, 2025 |   Htet Arkar    |  Fairness-aware Graph Learning     |  [PDF](./presentations/FairGL-HAK.pdf)       |
 
@@ -134,25 +136,25 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
-| September 13, 2024 - 1|   Hoonui Lee   |    RNNLogic- Learning Logic Rules for Reasoning on Knowledge Graphs    |   [PDF](./presentations/RNNLogic_lhn.pdf)     |
-| September 13, 2024 - 2|   Sooho Moon   |    RLogic: Recursive Logical Rule Learning from Knowledge Graphs    |  [PDF](./presentations/RLogic(2022).pdf)      |
-| September 20, 2024 - 1|   Junseo Yu   |    FairWalk & CrossWalk    |   [PDF](./presentations/Labmeeting_yjs_1_pdf.pdf)         |
-| September 20, 2024 - 2|   Junseo Yu   |    InFoRM: Individual Fairness on Graph Mining    |   [PDF](./presentations/Labmeeting_yjs_2_pdf.pdf)
+| September 13, 2024 - 1|   HoonUi Lee   |    RNNLogic- Learning Logic Rules for Reasoning on Knowledge Graphs    |   [PDF](./presentations/RNNLogic_lhn.pdf)     |
+| September 13, 2024 - 2|   SooHo Moon   |    RLogic: Recursive Logical Rule Learning from Knowledge Graphs    |  [PDF](./presentations/RLogic(2022).pdf)      |
+| September 20, 2024 - 1|   JunSeo Yu   |    FairWalk & CrossWalk    |   [PDF](./presentations/Labmeeting_yjs_1_pdf.pdf)         |
+| September 20, 2024 - 2|   JunSeo Yu   |    InFoRM: Individual Fairness on Graph Mining    |   [PDF](./presentations/Labmeeting_yjs_2_pdf.pdf)
 | September 27, 2024 |   Htet Arkar   |    GNN for Social Recommender Systems    |    [PDF](./presentations/SocialRS_HAK.pdf)         |
 | October 4, 2024 - 1|   Junseo Yu   |    Disentangled Graph Convolutional Networks    |    [PDF](./presentations/Labmeeting_yjs_241004.pdf)         |
 | October 4, 2024 - 2|   Htet Arkar   |    A Graph Neural Network Framework for Social Recommendation    |    [PDF](./presentations/SocialRS(2)_HAK.pdf)         |
-| October 11, 2024 - 1|   Sooho Moon   |    Link Prediction Based on Graph Neural Networks (SEAL)    |    [PDF](./presentations/SEAL(2018).pdf)          |
-| October 11, 2024 - 2|   Hoonui Lee   |    Inductive Relation Prediction by Subgraph Reasoning (GraIL)    |    [PDF](./presentations/GraIL_lhn.pdf)         |
-| November 1, 2024 - 1|   Hoonui Lee   |    Random Walk Inference and Learning in A Large Scale Knowledge Base (PRA)    |    [PDF](./presentations/PRA_lhn_1.pdf)         |
-| November 1, 2024 - 2|   Sooho Moon   |    DeepPath & PathCon    |   [PDF](./presentations/DeepPath_Pathcon_MSH_1.pdf)          |
+| October 11, 2024 - 1|   SooHo Moon   |    Link Prediction Based on Graph Neural Networks (SEAL)    |    [PDF](./presentations/SEAL(2018).pdf)          |
+| October 11, 2024 - 2|   HoonUi Lee   |    Inductive Relation Prediction by Subgraph Reasoning (GraIL)    |    [PDF](./presentations/GraIL_lhn.pdf)         |
+| November 1, 2024 - 1|   HoonUi Lee   |    Random Walk Inference and Learning in A Large Scale Knowledge Base (PRA)    |    [PDF](./presentations/PRA_lhn_1.pdf)         |
+| November 1, 2024 - 2|   SooHo Moon   |    DeepPath & PathCon    |   [PDF](./presentations/DeepPath_Pathcon_MSH_1.pdf)          |
 | November 8, 2024 - 1|          |    Low Mileage, High Fidelity: Evaluating Hypergraph Expansion Methods by Quantifying the Information Loss    |             |
 | November 8, 2024 - 2|          |    Learning from evolving, (un)structured data with foundation models    |             |
-| November 14, 2024 - 1|   Sooho Moon   |    Summary of KGC    |   [PDF](./presentations/Summary_of_KGC.pdf)          |
-| November 14, 2024 - 2|   Sooho Moon   |    Observing impact of long-tail relations on knowledge graph completion    |   [PDF](./presentations/Obseving_impact_of_long-tail_relations_on_knowledge_graph_completion.pdf)          |
-| November 29, 2024 - 1|   Hoonui Lee   |    Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings    |    [PDF](./presentations/EmbedKGQA&BiNet.pdf)          |
-| November 29, 2024 - 2|   Hoonui Lee   |    Joint Knowledge Graph Completion and Question Answering    |             |
+| November 14, 2024 - 1|   SooHo Moon   |    Summary of KGC    |   [PDF](./presentations/Summary_of_KGC.pdf)          |
+| November 14, 2024 - 2|   SooHo Moon   |    Observing impact of long-tail relations on knowledge graph completion    |   [PDF](./presentations/Obseving_impact_of_long-tail_relations_on_knowledge_graph_completion.pdf)          |
+| November 29, 2024 - 1|   HoonUi Lee   |    Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings    |    [PDF](./presentations/EmbedKGQA&BiNet.pdf)          |
+| November 29, 2024 - 2|   HoonUi Lee   |    Joint Knowledge Graph Completion and Question Answering    |             |
 | December 6, 2024 - 1|   Junseo Yu   |    Fair & Disentangle Graph Mining  Papers Organization    |   [PDF](./presentations/Fair&Disentangle_Graph_Mining_Papers_Organization.pdf)          |
-| December 6, 2024 - 2|   Gyuwon Lee   |    Deep Learning for Time Series Anomaly Detection: A Survey    |    [PDF](./presentations/ACM_Computing_TSAD_v2.pdf)         |
+| December 6, 2024 - 2|   GyuWon Lee   |    Deep Learning for Time Series Anomaly Detection: A Survey    |    [PDF](./presentations/ACM_Computing_TSAD_v2.pdf)         |
 
 
 ---
@@ -162,16 +164,16 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
-| July 09, 2024 - 1|   Saejoon Park & Gyuwon Lee |      Accurate evaluation for time-series anomaly detection       |    [PDF](./presentations/22_eTaPR.pdf) [PDF](./presentations/20240709_CIKM.pdf)    |
-| July 09, 2024 - 2|   Sooho Moon    |      Graph Attention Networks      |    [PDF](./presentations/Graph_Attention_Networks.pdf)    |
-| July 16, 2024 - 1|   Hoonui Lee    |      Learning Entity and Relation Embeddings for Knowledge Graph Completion      |    [PDF](./presentations/TransR_lhn.pdf)    |
-| July 16, 2024 - 2|   Sooho Moon    |      Convolutional 2D Knowledge Graph Embeddings      |    [PDF](./presentations/ConvE_문수호.pdf)    |
-| July 23, 2024 - 1|   Minho Kim    |      node2vec_Scalable Feature Learning for Networks      |   [PDF](./presentations/node2vec_KMH.pdf)          |
+| July 09, 2024 - 1|   SaeJoon Park & GyuWon Lee |      Accurate evaluation for time-series anomaly detection       |    [PDF](./presentations/22_eTaPR.pdf) [PDF](./presentations/20240709_CIKM.pdf)    |
+| July 09, 2024 - 2|   SooHo Moon    |      Graph Attention Networks      |    [PDF](./presentations/Graph_Attention_Networks.pdf)    |
+| July 16, 2024 - 1|   HoonUi Lee    |      Learning Entity and Relation Embeddings for Knowledge Graph Completion      |    [PDF](./presentations/TransR_lhn.pdf)    |
+| July 16, 2024 - 2|   SooHo Moon    |      Convolutional 2D Knowledge Graph Embeddings      |    [PDF](./presentations/ConvE_문수호.pdf)    |
+| July 23, 2024 - 1|   MinHo Kim    |      node2vec_Scalable Feature Learning for Networks      |   [PDF](./presentations/node2vec_KMH.pdf)          |
 | July 23, 2024 - 2|   Htet Arkar    |       Inductive Representation Learning on Large Graphs         |     [PDF](./presentations/GraphSAGE-HAK.pdf)        |
-| July 30, 2024 - 1|   Hoonui Lee    |      TransE & DistMult       |    [PDF](./presentations/TransE_DistMult_lhn.pdf)       |
-| July 30, 2024 - 2|   Sooho Moon    |      ComplEx & RotatE       |    [PDF](./presentations/ComplEx_MSH.pdf) [PDF](./presentations/RotatE_MSH.pdf)       |
+| July 30, 2024 - 1|   HoonUi Lee    |      TransE & DistMult       |    [PDF](./presentations/TransE_DistMult_lhn.pdf)       |
+| July 30, 2024 - 2|   SooHo Moon    |      ComplEx & RotatE       |    [PDF](./presentations/ComplEx_MSH.pdf) [PDF](./presentations/RotatE_MSH.pdf)       |
 | August 6, 2024 |   Htet Arkar    |      Neural Graph Collaborative Filtering and Simplifying and Powering Graph Convolution Network for Recommendation       |    [PDF](./presentations/NGCF_LightGCN_HAK.pdf)       |
-| August 13, 2024 - 1|   Gyuwon Lee   |    Attention Is All You Need    |    [PDF](./presentations/AttentionIsAllYouNeed_gyuwon.pdf)         |   
-| August 13, 2024 - 2|    Saejoon Park   |    Multivariate Time-series Anomaly Detection via Graph Attention Network            |   [PDF](./presentations/MTAD-GAT_PSJ.pdf)          |
-| August 20, 2024 - 1|    Hoonui Lee      |   Differentiable Learning of Logical Rules for Knowledge Base Reasoning             |   [PDF](./presentations/NeuralLP_lhn.pdf)            |
-| August 20, 2024 - 2|   Sooho Moon       |   DRUM- End-To-End Differentiable Rule Mining On Knowledge Graphs             |   [PDF](./presentations/DRUM_MSH.pdf)          |
+| August 13, 2024 - 1|   GyuWon Lee   |    Attention Is All You Need    |    [PDF](./presentations/AttentionIsAllYouNeed_gyuwon.pdf)         |   
+| August 13, 2024 - 2|    SaeJoon Park   |    Multivariate Time-series Anomaly Detection via Graph Attention Network            |   [PDF](./presentations/MTAD-GAT_PSJ.pdf)          |
+| August 20, 2024 - 1|    HoonUi Lee      |   Differentiable Learning of Logical Rules for Knowledge Base Reasoning             |   [PDF](./presentations/NeuralLP_lhn.pdf)            |
+| August 20, 2024 - 2|   SooHo Moon       |   DRUM- End-To-End Differentiable Rule Mining On Knowledge Graphs             |   [PDF](./presentations/DRUM_MSH.pdf)          |
