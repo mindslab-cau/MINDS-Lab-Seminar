@@ -16,18 +16,18 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
-| June 30, 2026 |  YunYong Ko    |    |     |
-| June 30, 2026 |  YeonGon Kim    |    |     |
-| July 7, 2026 |   EunJae Son   |    |     |
-| July 7, 2026 |   InHyeok Jeong   |    |     |
-| July 14, 2026 |   SooHo Moon   |    |     |
-| July 14, 2026 |   GyuWon Lee   |    |     |
-| July 21, 2026 |   JooHee Cho   |    |     |
-| July 21, 2026 |   HoonUi Lee   |    |     |
-| July 28, 2026 |   SuYong Jeong   |    |     |
-| July 28, 2026 |   SeungJong Lee   |    |     |
-| August 4, 2026 |   SaeJoon Park   |    |     |
-| August 4, 2026 |   YeonGon Kim   |    |     |
+| July 1, 2026 |  YunYong Ko    |    |     |
+| July 1, 2026 |  YeonGon Kim    |    |     |
+| July 8, 2026 |   EunJae Son   |    |     |
+| July 8, 2026 |   InHyeok Jeong   |    |     |
+| July 15, 2026 |   SooHo Moon   |    |     |
+| July 15, 2026 |   GyuWon Lee   |    |     |
+| July 22, 2026 |   JooHee Cho   |    |     |
+| July 22, 2026 |   HoonUi Lee   |    |     |
+| July 29, 2026 |   SuYong Jeong   |    |     |
+| July 29, 2026 |   SeungJong Lee   |    |     |
+| August 5, 2026 |   SaeJoon Park   |    |     |
+| August 5, 2026 |   YeonGon Kim   |    |     |
 
 ---
 
