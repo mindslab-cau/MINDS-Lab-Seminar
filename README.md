@@ -4,9 +4,9 @@ The main purpose of this seminar is to educate and inform its members of the rec
 
 ### Regular meeting.
 
-**Time**: 13:00pm - 16:00pm every Wednesday.
+**Time**: 11:00pm - 13:00pm every Wednesday.
 
-**Room**: Room #529, Building #208
+**Room**: Room #514-2, Building #208
 
 If you would like to present in an upcoming meeting, please submit a pull request for registering or email *Hoonui LEE (이훈의)[lhnui01@gmail.com]*.
 
