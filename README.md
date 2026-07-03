@@ -16,8 +16,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
-| July 1, 2026 |  YeonGon Kim    |  Aster: Enhancing LSM-structures
-for Scalable Graph Database  |   [PDF](./presentations/20260703_KYG.pdf)  |
+| July 1, 2026 |  YeonGon Kim    |  Aster: Enhancing LSM-structures for Scalable Graph Database  |   [PDF](./presentations/20260703_KYG.pdf)  |
 | July 8, 2026 |   EunJae Son   |    |     |
 | July 8, 2026 |   InHyeok Jeong   |    |     |
 | July 15, 2026 |   SooHo Moon   |    |     |
