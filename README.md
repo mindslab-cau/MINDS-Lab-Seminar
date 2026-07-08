@@ -23,10 +23,12 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | July 15, 2026 |   GyuWon Lee   |    |     |
 | July 22, 2026 |   JooHee Cho   |    |     |
 | July 22, 2026 |   HoonUi Lee   |    |     |
-| July 29, 2026 |   SuYong Jeong   |    |     |
-| July 29, 2026 |   EunJae Son   |    |     |
-| August 5, 2026 |   SaeJoon Park   |    |     |
-| August 5, 2026 |   YeonGon Kim   |    |     |
+| August 5, 2026 |   SuYong Jeong   |    |     |
+| August 5, 2026 |   EunJae Son   |    |     |
+| August 19, 2026 |   SaeJoon Park   |    |     |
+| August 19, 2026 |   Min Hwang   |    |     |
+| August 26, 2026 |   YeonGon Kim   |    |     |
+| August 26, 2026 |   SeungJong Lee   |    |     |
 
 ---
 
