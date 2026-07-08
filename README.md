@@ -26,9 +26,9 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | August 5, 2026 |   SuYong Jeong   |    |     |
 | August 5, 2026 |   EunJae Son   |    |     |
 | August 19, 2026 |   SaeJoon Park   |    |     |
-| August 19, 2026 |   YeonGon Kim   |    |     |
+| August 19, 2026 |   Hwang Min   |    |     |
+| August 26, 2026 |   YeonGon Kim   |    |     |
 | August 26, 2026 |   SeungJong Lee   |    |     |
-| August 26, 2026 |   InHyeok Jeong   |    |     |
 
 ---
 
