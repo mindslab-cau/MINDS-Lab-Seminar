@@ -19,8 +19,8 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | July 1, 2026 |   YeonGon Kim   |  Aster: Enhancing LSM-structures for Scalable Graph Database  |  [PDF](./presentations/20260703_KYG.pdf)   |
 | July 8, 2026 |   SeungJong Lee   |  Cluster-GCN  |   [PDF](./presentations/20260708_LSJ.pdf)  |
 | July 8, 2026 |   InHyeok Jeong   |  Recent Hypergraph Contrastive Learning  |  [PDF](./presentations/20260708_JIH.pdf)   |
-| July 15, 2026 |   SooHo Moon   |    |     |
-| July 15, 2026 |   GyuWon Lee   |    |     |
+| July 15, 2026 |   SooHo Moon   |  Open World aware Universal Negative Sampling for Knowledge Graph Completion  |  [PDF](./presentations/20260715_MSH.pdf)     |
+| July 15, 2026 |   GyuWon Lee   |   Learning Temporal, Relational, and Global Patterns in Multivariate Time Series for Accurate Anomaly Detection |  [PDF](./presentations/20260715_LGW.pdf)    |
 | August 5, 2026 |   JooHee Cho   |    |     |
 | August 5, 2026 |   HoonUi Lee   |    |     |
 | August 19, 2026 |   SuYong Jeong   |    |     |
