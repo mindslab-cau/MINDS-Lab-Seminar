@@ -21,6 +21,8 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | July 8, 2026 |   InHyeok Jeong   |  Recent Hypergraph Contrastive Learning  |  [PDF](./presentations/20260708_JIH.pdf)   |
 | July 15, 2026 |   SooHo Moon   |  Open World aware Universal Negative Sampling for Knowledge Graph Completion  |  [PDF](./presentations/20260715_MSH.pdf)     |
 | July 15, 2026 |   GyuWon Lee   |   Learning Temporal, Relational, and Global Patterns in Multivariate Time Series for Accurate Anomaly Detection |  [PDF](./presentations/20260715_LGW.pdf)    |
+| July 22, 2026 |   SooHo Moon   |  Generalized Rank-based Evaluation for Knowledge Graph Completion: Perspectives, Framework, and Analyses Completion  |  [PDF](./presentations/20260722_MSH.pdf)     |
+| July 22, 2026 |   JooHee Cho   |   Heterophily-aware Adaptive Knowledge Distillation for Hypergraph Neural Networks |  [PDF](./presentations/20260722_CJH.pdf)    |
 | August 5, 2026 |   JooHee Cho   |    |     |
 | August 5, 2026 |   HoonUi Lee   |    |     |
 | August 19, 2026 |   SuYong Jeong   |    |     |
