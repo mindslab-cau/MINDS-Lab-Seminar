@@ -23,7 +23,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | July 15, 2026 |   GyuWon Lee   |   Learning Temporal, Relational, and Global Patterns in Multivariate Time Series for Accurate Anomaly Detection |  [PDF](./presentations/20260715_LGW.pdf)    |
 | July 22, 2026 |   SooHo Moon   |  Generalized Rank-based Evaluation for Knowledge Graph Completion: Perspectives, Framework, and Analyses Completion  |  [PDF](./presentations/20260722_MSH.pdf)     |
 | July 22, 2026 |   JooHee Cho   |   Heterophily-aware Adaptive Knowledge Distillation for Hypergraph Neural Networks |  [PDF](./presentations/20260722_CJH.pdf)    |
-| August 5, 2026 |   JooHee Cho   |  Self Distillation on Graphs - Minimizing the Drawbacks of Deep Layers  |   [PDF](./presentations/20260805_CJH.pdf)  |
+| August 5, 2026 |   JooHee Cho   |  Self Distillation on Graphs - Minimizing the Drawbacks of Deep Layers  |   [PDF](./presentations/20260805_JHC.pdf)  |
 | August 5, 2026 |   HoonUi Lee   |  Sequential Recommendation: From Markov Transitions to Generative Retrieval  |  [PDF](./presentations/20260805_LHU.pdf)   |
 | August 19, 2026 |   KDD Review   |    |     |
 | August 26, 2026 |   EunJae Son   |    |     |
