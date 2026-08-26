@@ -25,8 +25,8 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | July 22, 2026 |   JooHee Cho   |   Heterophily-aware Adaptive Knowledge Distillation for Hypergraph Neural Networks |  [PDF](./presentations/20260722_CJH.pdf)    |
 | August 5, 2026 |   JooHee Cho   |  Self Distillation on Graphs - Minimizing the Drawbacks of Deep Layers  |   [PDF](./presentations/20260805_JHC.pdf)  |
 | August 5, 2026 |   HoonUi Lee   |  Sequential Recommendation: From Markov Transitions to Generative Retrieval  |  [PDF](./presentations/20260805_LHU.pdf)   |
-| August 26, 2026 |   EunJae Son   |   Learning Relational Representations from Relational Databases |  [PDF](./presentations/20260826_SEJ.pdf)   |
-| August 26, 2026 |   Min Hwang   | The Evolution of Network Embeddings: DeepWalk to node2vec & NetMF   |  [PDF](./presentations/20260826_HM.pdf)   |
+| August 26, 2026 |   EunJae Son   |   Learning Relational Representations from Relational Databases |  [PDF](./presentations/260826_SEJ.pdf)   |
+| August 26, 2026 |   Min Hwang   | The Evolution of Network Embeddings: DeepWalk to node2vec & NetMF   |  [PDF](./presentations/260826_HM.pdf)   |
 | September 2, 2026 |   SuYong Jeong   |    |     |
 | September 2, 2026 |   SaeJoon Park   |    |     |
 
