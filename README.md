@@ -12,6 +12,24 @@ If you would like to present in an upcoming meeting, please submit a pull reques
 
 Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation slides to this github repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to represent a week ahead of your presentation.
 
+### Schedule for Fall 2026
+
+|    Dates     |  Presenters   |        Topics         | Materials |
+| :----------: | :-----------: | :-------------------: | :-------: |
+| September, 2026 |   SuYong Jeong   |    |     |
+| September, 2026 |   SaeJoon Park   |    |     |
+| September, 2026 |   Htet Arkar   |    |     |
+| September, 2026 |   SeungJong Lee   |    |     |
+| October, 2026 |   SooHo Moon   |    |     |
+| October, 2026 |   GyuWon Lee   |    |     |
+| October, 2026 |   InHyeok Jeong   |    |     |
+| October, 2026 |   JooHee Cho   |    |     |
+| November, 2026 |   HoonUi Lee   |    |     |
+| November, 2026 |   EunJae Son   |    |     |
+| November, 2026 |   Min Hwang   |    |     |
+
+---
+
 ### Schedule for Summer 2026
 
 |    Dates     |  Presenters   |        Topics         | Materials |
@@ -27,8 +45,6 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | August 5, 2026 |   HoonUi Lee   |  Sequential Recommendation: From Markov Transitions to Generative Retrieval  |  [PDF](./presentations/20260805_LHU.pdf)   |
 | August 26, 2026 |   EunJae Son   |   Learning Relational Representations from Relational Databases |  [PDF](./presentations/260826_SEJ.pdf)   |
 | August 26, 2026 |   Min Hwang   | The Evolution of Network Embeddings: DeepWalk to node2vec & NetMF   |  [PDF](./presentations/260826_HM.pdf)   |
-| September 2, 2026 |   SuYong Jeong   |    |     |
-| September 2, 2026 |   SaeJoon Park   |    |     |
 
 ---
 
