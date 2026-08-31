@@ -16,15 +16,15 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
+| September, 2026 |   HoonUi Lee   |    |     |
 | September, 2026 |   SuYong Jeong   |    |     |
 | September, 2026 |   SaeJoon Park   |    |     |
 | September, 2026 |   Htet Arkar   |    |     |
-| September, 2026 |   SeungJong Lee   |    |     |
+| October, 2026 |   SeungJong Lee   |    |     |
 | October, 2026 |   SooHo Moon   |    |     |
 | October, 2026 |   GyuWon Lee   |    |     |
 | October, 2026 |   InHyeok Jeong   |    |     |
 | October, 2026 |   JooHee Cho   |    |     |
-| November, 2026 |   HoonUi Lee   |    |     |
 | November, 2026 |   EunJae Son   |    |     |
 | November, 2026 |   Min Hwang   |    |     |
 
