@@ -4,7 +4,7 @@ The main purpose of this seminar is to educate and inform its members of the rec
 
 ### Regular meeting.
 
-**Time**: 11:00pm - 13:00pm every Wednesday.
+**Time**: 17:00pm - 19:00pm every Tuesday.
 
 **Room**: Room #514-2, Building #208
 
@@ -17,15 +17,15 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
 | September 8, 2026 |   HoonUi Lee   |  Negative Sampling in Recommendation: What makes a Good Negative? |  [PDF](./presentations/20260908_LHU.pdf)   |
-| September 15, 2026 |   SuYong Jeong   |    |     |
-| September 22, 2026 |   Htet Arkar   |    |     |
-| September 29, 2026 |   SeungJong Lee   |    |     |
-| October 6, 2026 |   SooHo Moon   |    |     |
-| October 13, 2026 |   GyuWon Lee   |    |     |
-| October 20, 2026 |   InHyeok Jeong  |    |     |
-| October 27, 2026 |   JooHee Cho   |    |     |
-| November 3, 2026 |   EunJae Son   |    |     |
-| November 10 , 2026 |   Min Hwang   |    |     |
+| September 29, 2026 |   SuYong Jeong   |    |     |
+| October 6, 2026 |   Htet Arkar   |    |     |
+| October 13, 2026 |   SeungJong Lee   |    |     |
+| October 27, 2026 |   SooHo Moon   |    |     |
+| November 3, 2026 |   GyuWon Lee   |    |     |
+| November 10 , 2026 |   InHyeok Jeong  |    |     |
+| November 17 , 2026 |   JooHee Cho   |    |     |
+| November 24, 2026 |   EunJae Son   |    |     |
+| December 1 , 2026 |   Min Hwang   |    |     |
 
 ---
 
