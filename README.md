@@ -18,7 +18,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | :----------: | :-----------: | :-------------------: | :-------: |
 | September 8, 2026 |   HoonUi Lee   |  Negative Sampling in Recommendation: What makes a Good Negative? |  [PDF](./presentations/20260908_LHU.pdf)   |
 | September 29, 2026 |   SuYong Jeong   |  Negative Sampling and Evaluation in Dynamic Graph Learning  | [PDF](./presentations/20260929_JSY.pdf)    |
-| October 6, 2026 |   Htet Arkar   |    |     |
+| October 6, 2026 |   Htet Arkar   |  Fairness of Information Flow in Social Networks  |  [PDF](./presentations/20261006_HAK.pdf)   |
 | October 13, 2026 |   SeungJong Lee   |    |     |
 | October 27, 2026 |   SooHo Moon   |    |     |
 | November 3, 2026 |   GyuWon Lee   |    |     |
