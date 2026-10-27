@@ -21,11 +21,12 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your presentation 
 | October 6, 2026 |   Htet Arkar   |  Fairness of Information Flow in Social Networks  |  [PDF](./presentations/20261006_HAK.pdf)   |
 | October 13, 2026 |   SeungJong Lee   |  GNNDrive: Reducing Memory Contention and I/O Congestion for Disk-based GNN Training  | [PDF](./presentations/20261013_LSJ.pdf)    |
 | October 27, 2026 |   SaeJoon Park   |  FALCON: Fast and Scalable Out-of-Core Training of Graph Neural Networks  |  [PDF](./presentations/20261027_PSJ.pdf)   |
-| November 3, 2026 |   GyuWon Lee   |    |     |
-| November 10 , 2026 |   InHyeok Jeong  |    |     |
-| November 17 , 2026 |   JooHee Cho   |    |     |
-| November 24, 2026 |   EunJae Son   |    |     |
-| December 1 , 2026 |   Min Hwang   |    |     |
+| November 3, 2026 |   Sooho Moon   |    |     |
+| November 10 , 2026 |   GyuWon Lee  |    |     |
+| November 17 , 2026 |   InHyeok Jeong   |    |     |
+| November 24, 2026 |   JooHee Cho   |    |     |
+| December 1 , 2026 |   EunJae Son   |    |     |
+| December 8 , 2026 |   Min Hwang   |    |     |
 
 ---
 
